@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <ScrivenerProject Identifier="15DFEA94-CD42-4847-AB3E-37C2F008BF99" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="Joyces-MacBook-Pro" Author="Joyce Rice" Modified="2019-05-02 15:05:35 -0400" ModID="0F140996-3417-42B4-9F23-471118409AD9">
+=======
+<ScrivenerProject Identifier="15DFEA94-CD42-4847-AB3E-37C2F008BF99" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="Joyces-MacBook-Pro" Author="Joyce Rice" Modified="2019-05-02 14:57:01 -0400" ModID="8C5AB1D5-88F4-4E0A-B48D-C9BD7A072D87">
+>>>>>>> 0b5188eac70709913bbcbe156b0efa1f2134e11d
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2019-05-02 14:13:15 -0400" Modified="2019-05-02 14:13:15 -0400">
             <Title>Novel Format</Title>
@@ -133,7 +137,11 @@
             </TextSettings>
             <DefaultChildTemplateUUID>BE948F87-BDA3-4551-8E08-AC248FE89301</DefaultChildTemplateUUID>
             <Children>
+<<<<<<< HEAD
                 <BinderItem UUID="CFD6E5FB-D827-42FE-ADFB-502F2C1407AE" Type="Text" Created="2019-05-02 14:28:18 -0400" Modified="2019-05-02 15:05:35 -0400">
+=======
+                <BinderItem UUID="CFD6E5FB-D827-42FE-ADFB-502F2C1407AE" Type="Text" Created="2019-05-02 14:28:18 -0400" Modified="2019-05-02 14:45:02 -0400">
+>>>>>>> 0b5188eac70709913bbcbe156b0efa1f2134e11d
                     <Title>Helen</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -141,7 +149,11 @@
                         <IconFileName>Characters (Character Sheet)</IconFileName>
                     </MetaData>
                     <TextSettings>
+<<<<<<< HEAD
                         <TextSelection>411,0</TextSelection>
+=======
+                        <TextSelection>539,0</TextSelection>
+>>>>>>> 0b5188eac70709913bbcbe156b0efa1f2134e11d
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="8B74A99A-0FD2-4413-B63F-F41DA47D233C" Type="Text" Created="2019-05-02 14:31:55 -0400" Modified="2019-05-02 14:52:10 -0400">
@@ -557,8 +569,13 @@
     <RecentWritingHistory Date="2019-05-02 14:13:16 -0400">
         <DraftWordCount>43353</DraftWordCount>
         <DraftCharCount>235341</DraftCharCount>
+<<<<<<< HEAD
         <OtherWordCount>137</OtherWordCount>
         <OtherCharCount>770</OtherCharCount>
+=======
+        <OtherWordCount>136</OtherWordCount>
+        <OtherCharCount>765</OtherCharCount>
+>>>>>>> 0b5188eac70709913bbcbe156b0efa1f2134e11d
     </RecentWritingHistory>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
