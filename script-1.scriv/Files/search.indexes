@@ -4,6 +4,42 @@
         <Document ID="4D01D8EC-C1C3-427E-88C0-602D9158FC95">
             <Title>Paperback</Title>
         </Document>
+        <Document ID="A82C5FCE-8919-4A7B-A031-79975CB85973">
+            <Title>Lord Argentine</Title>
+            <Text>@LordArgentine / Charles Aubernon
+Age • Location
+
+Role in Story
+OG dead guy
+
+Goal
+
+
+Physical Description
+Super dead
+
+Personality
+A real corpse of a guy
+
+Occupation
+
+
+Habits/Mannerisms
+
+
+Background
+
+
+Internal Conflicts
+
+
+External Conflicts
+
+
+Notes
+
+</Text>
+        </Document>
         <Document ID="45CBBEC1-DF54-4394-920C-DE4E11EEA23A">
             <Title>TheDiscoveryInPaulStreet</Title>
         </Document>
@@ -221,6 +257,22 @@ Three days later Raymond took Clarke to Mary's bedside. She was lying wide-awake
             <Title>Blank Page</Title>
             <Text>&lt;$BLANK_PAGE&gt;</Text>
             <Notes>During Compile, Scrivener will try to remove any unnecessary blank pages. The &lt;$BLANK_PAGE&gt; tag tells Scrivener to leave this page blank (the tag itself will be removed from the compiled document).</Notes>
+        </Document>
+        <Document ID="414E7BE7-05F4-4049-AB9F-EEAD70712F3A">
+            <Title>RABBIT-HOLE</Title>
+            <Text>@LordArgentine was a great favorite on the internet. He had a rich dad but no trust fund. He scrapped together a living selling bullshit on his account, a few bucks here and there.
+All dads die eventually though, and so one morning Charles Aubernon woke up and found that @LordArgentine was no longer a handle, but the title of a wealthy man. The situation amused him immensely, and he resolved that riches should be as pleasant to him as “poverty” had always been. Argentine, after some little consideration, came to the conclusion that dining, regarded as a fine art, was perhaps the most amusing pursuit open to fallen humanity, and thus his dinners became famous online, and an invitation to his table a thing covetously desired. 
+After ten years of lordship and dinners Argentine still declined to be jaded, still persisted in enjoying life, and by a kind of infection had become recognized as the cause of joy in others, in short, as the best of company. His sudden and tragical death therefore caused a wide and deep sensation. 
+People could scarcely believe it, even though the headlines were there before their eyes, and the cry of "Mysterious Death of a Nobleman" came ringing up from every channel. But there stood the brief paragraph: “@LordArgentine was found dead this morning by his valet under distressing circumstances. It is stated that there can be no doubt that his lordship committed suicide, though no motive can be assigned for the act. The deceased nobleman was widely known in society, and much liked for his genial manner and sumptuous hospitality. He is succeeded by," etc., etc. 
+By slow degrees the details came to light, but the case still remained a mystery. The chief witness at the inquest was the deceased's valet, who said that the night before his death @LordArgentine had dined with another influencer of good position, whose name was suppressed in the newspaper reports. 
+At about eleven o'clock @LordArgentine had returned, and informed his man that he should not require his services till the next morning. A little later the valet had occasion to cross the hall and was somewhat astonished to see his master quietly letting himself out at the front door. He had taken off his evening clothes, and was dressed in a Norfolk coat and knickerbockers, and wore a low brown hat. 
+The valet had no reason to suppose that @LordArgentine had seen him, and though his master rarely kept late hours, thought little of the occurrence till the next morning, when he knocked at the bedroom door at a quarter to nine as usual. He received no answer, and, after knocking two or three times, entered the room, and saw @LordArgentine's body leaning forward at an angle from the bottom of the bed. 
+He found that his master had tied a cord securely to one of the short bed-posts, and, after making a running noose and slipping it round his neck, the unfortunate man must have resolutely fallen forward, to die by slow strangulation. He was dressed in the light suit in which the valet had seen him go out, and the doctor who was summoned pronounced that life had been extinct for more than four hours. 
+All papers, letters, and so forth seemed in perfect order, and nothing was discovered which pointed in the most remote way to any scandal either great or small. Here the evidence ended; nothing more could be discovered. Several persons had been present at the dinner-party at which @LordArgentine had assisted, and to all these he seemed in his usual genial spirits. 
+The valet, indeed, said he thought his master appeared a little excited when he came home, but confessed that the alteration in his manner was very slight, hardly noticeable, indeed. It seemed hopeless to seek for any clue, and the suggestion that @LordArgentine had been suddenly attacked by acute suicidal mania was generally accepted. </Text>
+            <Notes>- Click on handles to see profiles!!
+- Generally replacing “London”/high-society people with “the internet”/social media influencers
+- the name of the game is cut cut cut cut, we probably need to cut way more than this</Notes>
         </Document>
         <Document ID="F5022699-BF4C-4E64-941A-06AD8E3F6B5E">
             <Title>Raymond</Title>
@@ -448,14 +500,11 @@ Mary never recovered her reason. She lay, as you saw her, all the while upon her
             <Title>TheEncounterInSoho</Title>
         </Document>
         <Document ID="AD76CCE8-0EDA-4E78-B4C7-6FBA58F3BCEF">
-            <Title>TheDiscoveryInPaulStreet</Title>
-            <Text>IV 
-THE DISCOVERY IN PAUL STREET 
-A few months after Villiers' meeting with Herbert, Mr. Clarke was sitting, as usual, by his after-dinner hearth, resolutely guarding his fancies from wandering in the direction of the bureau. For more than a week he had succeeded in keeping away from the "Memoirs," and he cherished hopes of a complete self-reformation; but, in spite of his endeavours, he could not hush the wonder and the strange curiosity that the last case he had written down had excited within him. He had put the case, or rather the outline of it, conjecturally to a scientific friend, who shook his head, and thought Clarke getting queer, and on this particular evening Clarke was making an effort to rationalize the story, when a sudden knock at the door roused him from his meditations. 
-"Mr. Villiers to see you sir." 
-"Dear me, Villiers, it is very kind of you to look me up; I have not seen you for many months; I should think nearly a year. Come in, come in. And how are you, Villiers? Want any advice about investments?" 
+            <Synopsis>investigate the house on paul st, find the picture of helen
+
+clarke doesn’t rly need to be here, you can take the drawing to clarke later?</Synopsis>
+            <Text>"Dear me, Villiers, it is very kind of you to look me up; I have not seen you for many months; I should think nearly a year. Come in, come in. And how are you, Villiers? Want any advice about investments?" 
 "No, thanks, I fancy everything I have in that way is pretty safe. No, Clarke, I have really come to consult you about a rather curious matter that has been brought under my notice of late. I am afraid you will think it all rather absurd when I tell my tale. I sometimes think so myself, and that's just what I made up my mind to come to you, as I know you're a practical man." 
-Mr. Villiers was ignorant of the "Memoirs to prove the Existence of the Devil." 
 "Well, Villiers, I shall be happy to give you my advice, to the best of my ability. What is the nature of the case?" 
 "It's an extraordinary thing altogether. You know my ways; I always keep my eyes open in the streets, and in my time I have chanced upon some queer customers, and queer cases too, but this, I think, beats all. I was coming out of a restaurant one nasty winter night about three months ago; I had had a capital dinner and a good bottle of Chianti, and I stood for a moment on the pavement, thinking what a mystery there is about London streets and the companies that pass along them. A bottle of red wine encourages these fancies, Clarke, and I dare say I should have thought a page of small type, but I was cut short by a beggar who had come behind me, and was making the usual appeals. Of course I looked round, and this beggar turned out to be what was left of an old friend of mine, a man named Herbert. I asked him how he had come to such a wretched pass, and he told me. We walked up and down one of those long and dark Soho streets, and there I listened to his story. He said he had married a beautiful girl, some years younger than himself, and, as he put it, she had corrupted him body and soul. He wouldn't go into details; he said he dare not, that what he had seen and heard haunted him by night and day, and when I looked in his face I knew he was speaking the truth. There was something about the man that made me shiver. I don't know why, but it was there. I gave him a little money and sent him away, and I assure you that when he was gone I gasped for breath. His presence seemed to chill one's blood." 
 "Isn't this all just a little fanciful, Villiers? I suppose the poor fellow had made an imprudent marriage, and, in plain English, gone to the bad." 
@@ -519,8 +568,88 @@ Clarke had tried his best to disbelieve it all, but at the end of the account, a
 ET DIABOLUS INCARNATE EST. ET HOMO FACTUS EST. 
 </Text>
         </Document>
+        <Document ID="3183E94D-7673-4270-841A-D7D2BC797DDE">
+            <Title>Visit Austin</Title>
+            <Text>A short while after the last of these terrible events, Austin came to see Mr. Villiers. He was curious to know whether Villiers had succeeded in discovering any fresh traces of Mrs. Herbert, either through Clarke or by other sources, and he asked the question soon after he had sat down. 
+"No," said Villiers, "I wrote to Clarke, but he remains obdurate, and I have tried other channels, but without any result. I can't find out what became of Helen Vaughan after she left Paul Street, but I think she must have gone abroad. But to tell the truth, Austin, I haven't paid much attention to the matter for the last few weeks; I knew poor Herries intimately, and his terrible death has been a great shock to me, a great shock." 
+"I can well believe it," answered Austin gravely, "you know Argentine was a friend of mine. If I remember rightly, we were speaking of him that day you came to my rooms." 
+"Yes; it was in connection with that house in Ashley Street, Mrs. Beaumont's house. You said something about Argentine's dining there." 
+"Quite so. Of course you know it was there Argentine dined the night before—before his death." 
+"No, I had not heard that." 
+"Oh, yes; the name was kept out of the papers to spare Mrs. Beaumont. Argentine was a great favourite of hers, and it is said she was in a terrible state for sometime after." 
+A curious look came over Villiers' face; he seemed undecided whether to speak or not. Austin began again. 
+"I never experienced such a feeling of horror as when I read the account of Argentine's death. I didn't understand it at the time, and I don't now. I knew him well, and it completely passes my understanding for what possible cause he—or any of the others for the matter of that—could have resolved in cold blood to die in such an awful manner. You know how men babble away each other's characters in London, you may be sure any buried scandal or hidden skeleton would have been brought to light in such a case as this; but nothing of the sort has taken place. As for the theory of mania, that is very well, of course, for the coroner's jury, but everybody knows that it's all nonsense. Suicidal mania is not small-pox." 
+Austin relapsed into gloomy silence. Villiers sat silent, also, watching his friend. The expression of indecision still fleeted across his face; he seemed as if weighing his thoughts in the balance, and the considerations he was resolving left him still silent. Austin tried to shake off the remembrance of tragedies as hopeless and perplexed as the labyrinth of Daedalus, and began to talk in an indifferent voice of the more pleasant incidents and adventures of the season. 
+"That Mrs. Beaumont," he said, "of whom we were speaking, is a great success; she has taken London almost by storm. I met her the other night at Fulham's; she is really a remarkable woman." 
+"You have met Mrs. Beaumont?" 
+"Yes; she had quite a court around her. She would be called very handsome, I suppose, and yet there is something about her face which I didn't like. The features are exquisite, but the expression is strange. And all the time I was looking at her, and afterwards, when I was going home, I had a curious feeling that very expression was in some way or another familiar to me." 
+"You must have seen her in the Row." 
+"No, I am sure I never set eyes on the woman before; it is that which makes it puzzling. And to the best of my belief I have never seen anyone like her; what I felt was a kind of dim far-off memory, vague but persistent. The only sensation I can compare it to, is that odd feeling one sometimes has in a dream, when fantastic cities and wondrous lands and phantom personages appear familiar and accustomed." 
+Villiers nodded and glanced aimlessly round the room, possibly in search of something on which to turn the conversation. His eyes fell on an old chest somewhat like that in which the artist's strange legacy lay hid beneath a Gothic scutcheon. 
+"Have you written to the doctor about poor Meyrick?" he asked. 
+"Yes; I wrote asking for full particulars as to his illness and death. I don't expect to have an answer for another three weeks or a month. I thought I might as well inquire whether Meyrick knew an Englishwoman named Herbert, and if so, whether the doctor could give me any information about her. But it's very possible that Meyrick fell in with her at New York, or Mexico, or San Francisco; I have no idea as to the extent or direction of his travels." 
+"Yes, and it's very possible that the woman may have more than one name." 
+"Exactly. I wish I had thought of asking you to lend me the portrait of her which you possess. I might have enclosed it in my letter to Dr. Matthews." 
+"So you might; that never occurred to me. We might send it now. Hark! what are those boys calling?" 
+While the two men had been talking together a confused noise of shouting had been gradually growing louder. The noise rose from the eastward and swelled down Piccadilly, drawing nearer and nearer, a very torrent of sound; surging up streets usually quiet, and making every window a frame for a face, curious or excited. The cries and voices came echoing up the silent street where Villiers lived, growing more distinct as they advanced, and, as Villiers spoke, an answer rang up from the pavement: 
+"The West End Horrors; Another Awful Suicide; Full Details!" 
+Austin rushed down the stairs and bought a paper and read out the paragraph to Villiers as the uproar in the street rose and fell. The window was open and the air seemed full of noise and terror. 
+"Another gentleman has fallen a victim to the terrible epidemic of suicide which for the last month has prevailed in the West End. Mr. Sidney Crashaw, of Stoke House, Fulham, and King's Pomeroy, Devon, was found, after a prolonged search, hanging dead from the branch of a tree in his garden at one o'clock today. The deceased gentleman dined last night at the Carlton Club and seemed in his usual health and spirits. He left the club at about ten o'clock, and was seen walking leisurely up St. James's Street a little later. Subsequent to this his movements cannot be traced. On the discovery of the body medical aid was at once summoned, but life had evidently been long extinct. So far as is known, Mr. Crashaw had no trouble or anxiety of any kind. This painful suicide, it will be remembered, is the fifth of the kind in the last month. The authorities at Scotland Yard are unable to suggest any explanation of these terrible occurrences." 
+Austin put down the paper in mute horror. 
+"I shall leave London to-morrow," he said, "it is a city of nightmares. How awful this is, Villiers!" 
+Mr. Villiers was sitting by the window quietly looking out into the street. He had listened to the newspaper report attentively, and the hint of indecision was no longer on his face. 
+"Wait a moment, Austin," he replied, "I have made up my mind to mention a little matter that occurred last night. It stated, I think, that Crashaw was last seen alive in St. James's Street shortly after ten?" 
+"Yes, I think so. I will look again. Yes, you are quite right." 
+"Quite so. Well, I am in a position to contradict that statement at all events. Crashaw was seen after that; considerably later indeed." 
+"How do you know?" 
+"Because I happened to see Crashaw myself at about two o'clock this morning." 
+"You saw Crashaw? You, Villiers?" 
+"Yes, I saw him quite distinctly; indeed, there were but a few feet between us." 
+"Where, in Heaven's name, did you see him?" 
+"Not far from here. I saw him in Ashley Street. He was just leaving a house." 
+"Did you notice what house it was?" 
+"Yes. It was Mrs. Beaumont's." 
+"Villiers! Think what you are saying; there must be some mistake. How could Crashaw be in Mrs. Beaumont's house at two o'clock in the morning? Surely, surely, you must have been dreaming, Villiers; you were always rather fanciful." 
+"No; I was wide awake enough. Even if I had been dreaming as you say, what I saw would have roused me effectually." 
+"What you saw? What did you see? Was there anything strange about Crashaw? But I can't believe it; it is impossible." 
+"Well, if you like I will tell you what I saw, or if you please, what I think I saw, and you can judge for yourself." 
+"Very good, Villiers." 
+The noise and clamour of the street had died away, though now and then the sound of shouting still came from the distance, and the dull, leaden silence seemed like the quiet after an earthquake or a storm. Villiers turned from the window and began speaking. 
+"I was at a house near Regent's Park last night, and when I came away the fancy took me to walk home instead of taking a hansom. It was a clear pleasant night enough, and after a few minutes I had the streets pretty much to myself. It's a curious thing, Austin, to be alone in London at night, the gas-lamps stretching away in perspective, and the dead silence, and then perhaps the rush and clatter of a hansom on the stones, and the fire starting up under the horse's hoofs. I walked along pretty briskly, for I was feeling a little tired of being out in the night, and as the clocks were striking two I turned down Ashley Street, which, you know, is on my way. It was quieter than ever there, and the lamps were fewer; altogether, it looked as dark and gloomy as a forest in winter. I had done about half the length of the street when I heard a door closed very softly, and naturally I looked up to see who was abroad like myself at such an hour. As it happens, there is a street lamp close to the house in question, and I saw a man standing on the step. He had just shut the door and his face was towards me, and I recognized Crashaw directly. I never knew him to speak to, but I had often seen him, and I am positive that I was not mistaken in my man. I looked into his face for a moment, and then—I will confess the truth—I set off at a good run, and kept it up till I was within my own door." 
+"Why?" 
+"Why? Because it made my blood run cold to see that man's face. I could never have supposed that such an infernal medley of passions could have glared out of any human eyes; I almost fainted as I looked. I knew I had looked into the eyes of a lost soul, Austin, the man's outward form remained, but all hell was within it. Furious lust, and hate that was like fire, and the loss of all hope and horror that seemed to shriek aloud to the night, though his teeth were shut; and the utter blackness of despair. I am sure that he did not see me; he saw nothing that you or I can see, but what he saw I hope we never shall. I do not know when he died; I suppose in an hour, or perhaps two, but when I passed down Ashley Street and heard the closing door, that man no longer belonged to this world; it was a devil's face I looked upon." 
+There was an interval of silence in the room when Villiers ceased speaking. The light was failing, and all the tumult of an hour ago was quite hushed. Austin had bent his head at the close of the story, and his hand covered his eyes. 
+"What can it mean?" he said at length. 
+"Who knows, Austin, who knows? It's a black business, but I think we had better keep it to ourselves, for the present at any rate. I will see if I cannot learn anything about that house through private channels of information, and if I do light upon anything I will let you know." 
+</Text>
+        </Document>
         <Document ID="6830B6AC-686B-4370-A979-2FD1D7288BDA">
             <Title>Places</Title>
+        </Document>
+        <Document ID="4ED37528-C5FC-44C8-B1E9-E5B6C83A1E75">
+            <Title>BASIC OUTLINE</Title>
+            <Text>Struggling to rehash this, so gonna try to outline the story threads here:
+
+RABBIT HOLE:
+- Villiers is investigating the death of @LordArgentine
+
+INVESTIGATE LEVEL 1:
+- Check the case files
+	- More suicides
+- Talk to a begger
+	- Herbert tells u about his bad wife
+- Visit Clarke
+	- @LordArgentine was with Mrs. Beaumont before he died
+- Visit Austin
+	- Find out about Paul St murder 
+
+INVESTIGATE LEVEL 2:
+- Check out Paul St house
+	- Find pic of Helen
+
+INVESTIGATE LEVEL 3:
+- Bring Helen pic to Clarke
+</Text>
         </Document>
         <Document ID="98840781-AD34-46C7-8355-FB1938518136">
             <Title>TheLetterOfAdvice</Title>
@@ -747,68 +876,12 @@ Your dedication here.</Text>
             <Notes>Feel free to delete this document if you don’t need it.</Notes>
         </Document>
         <Document ID="D746AF65-23CD-48E5-AC93-C0E7D842B2FF">
-            <Title>TheSuicides</Title>
-            <Synopsis>OPENING GAMBIT: THE MURDER OF ARGENTINE
-
-READER DISCOVERS: 
-- A murder????? Villiers is on the case
-- Mrs. Beaumont exists</Synopsis>
-            <Text>VI 
-THE SUICIDES 
-Lord Argentine was a great favourite in London Society. At twenty he had been a poor man, decked with the surname of an illustrious family, but forced to earn a livelihood as best he could, and the most speculative of money-lenders would not have entrusted him with fifty pounds on the chance of his ever changing his name for a title, and his poverty for a great fortune. His father had been near enough to the fountain of good things to secure one of the family livings, but the son, even if he had taken orders, would scarcely have obtained so much as this, and moreover felt no vocation for the ecclesiastical estate. Thus he fronted the world with no better armour than the bachelor's gown and the wits of a younger son's grandson, with which equipment he contrived in some way to make a very tolerable fight of it. At twenty-five Mr. Charles Aubernon saw himself still a man of struggles and of warfare with the world, but out of the seven who stood before him and the high places of his family three only remained. These three, however, were "good lives," but yet not proof against the Zulu assegais and typhoid fever, and so one morning Aubernon woke up and found himself Lord Argentine, a man of thirty who had faced the difficulties of existence, and had conquered. The situation amused him immensely, and he resolved that riches should be as pleasant to him as poverty had always been. Argentine, after some little consideration, came to the conclusion that dining, regarded as a fine art, was perhaps the most amusing pursuit open to fallen humanity, and thus his dinners became famous in London, and an invitation to his table a thing covetously desired. After ten years of lordship and dinners Argentine still declined to be jaded, still persisted in enjoying life, and by a kind of infection had become recognized as the cause of joy in others, in short, as the best of company. His sudden and tragical death therefore caused a wide and deep sensation. People could scarcely believe it, even though the newspaper was before their eyes, and the cry of "Mysterious Death of a Nobleman" came ringing up from the street. But there stood the brief paragraph: "Lord Argentine was found dead this morning by his valet under distressing circumstances. It is stated that there can be no doubt that his lordship committed suicide, though no motive can be assigned for the act. The deceased nobleman was widely known in society, and much liked for his genial manner and sumptuous hospitality. He is succeeded by," etc., etc. 
-By slow degrees the details came to light, but the case still remained a mystery. The chief witness at the inquest was the deceased's valet, who said that the night before his death Lord Argentine had dined with a lady of good position, whose name was suppressed in the newspaper reports. At about eleven o'clock Lord Argentine had returned, and informed his man that he should not require his services till the next morning. A little later the valet had occasion to cross the hall and was somewhat astonished to see his master quietly letting himself out at the front door. He had taken off his evening clothes, and was dressed in a Norfolk coat and knickerbockers, and wore a low brown hat. The valet had no reason to suppose that Lord Argentine had seen him, and though his master rarely kept late hours, thought little of the occurrence till the next morning, when he knocked at the bedroom door at a quarter to nine as usual. He received no answer, and, after knocking two or three times, entered the room, and saw Lord Argentine's body leaning forward at an angle from the bottom of the bed. He found that his master had tied a cord securely to one of the short bed-posts, and, after making a running noose and slipping it round his neck, the unfortunate man must have resolutely fallen forward, to die by slow strangulation. He was dressed in the light suit in which the valet had seen him go out, and the doctor who was summoned pronounced that life had been extinct for more than four hours. All papers, letters, and so forth seemed in perfect order, and nothing was discovered which pointed in the most remote way to any scandal either great or small. Here the evidence ended; nothing more could be discovered. Several persons had been present at the dinner-party at which Lord Argentine had assisted, and to all these he seemed in his usual genial spirits. The valet, indeed, said he thought his master appeared a little excited when he came home, but confessed that the alteration in his manner was very slight, hardly noticeable, indeed. It seemed hopeless to seek for any clue, and the suggestion that Lord Argentine had been suddenly attacked by acute suicidal mania was generally accepted. 
-It was otherwise, however, when within three weeks, three more gentlemen, one of them a nobleman, and the two others men of good position and ample means, perished miserably in the almost precisely the same manner. Lord Swanleigh was found one morning in his dressing-room, hanging from a peg affixed to the wall, and Mr. Collier-Stuart and Mr. Herries had chosen to die as Lord Argentine. There was no explanation in either case; a few bald facts; a living man in the evening, and a body with a black swollen face in the morning. The police had been forced to confess themselves powerless to arrest or to explain the sordid murders of Whitechapel; but before the horrible suicides of Piccadilly and Mayfair they were dumbfoundered, for not even the mere ferocity which did duty as an explanation of the crimes of the East End, could be of service in the West. Each of these men who had resolved to die a tortured shameful death was rich, prosperous, and to all appearances in love with the world, and not the acutest research should ferret out any shadow of a lurking motive in either case. There was a horror in the air, and men looked at one another's faces when they met, each wondering whether the other was to be the victim of the fifth nameless tragedy. Journalists sought in vain for their scrapbooks for materials whereof to concoct reminiscent articles; and the morning paper was unfolded in many a house with a feeling of awe; no man knew when or where the next blow would light. 
-A short while after the last of these terrible events, Austin came to see Mr. Villiers. He was curious to know whether Villiers had succeeded in discovering any fresh traces of Mrs. Herbert, either through Clarke or by other sources, and he asked the question soon after he had sat down. 
-"No," said Villiers, "I wrote to Clarke, but he remains obdurate, and I have tried other channels, but without any result. I can't find out what became of Helen Vaughan after she left Paul Street, but I think she must have gone abroad. But to tell the truth, Austin, I haven't paid much attention to the matter for the last few weeks; I knew poor Herries intimately, and his terrible death has been a great shock to me, a great shock." 
-"I can well believe it," answered Austin gravely, "you know Argentine was a friend of mine. If I remember rightly, we were speaking of him that day you came to my rooms." 
-"Yes; it was in connection with that house in Ashley Street, Mrs. Beaumont's house. You said something about Argentine's dining there." 
-"Quite so. Of course you know it was there Argentine dined the night before—before his death." 
-"No, I had not heard that." 
-"Oh, yes; the name was kept out of the papers to spare Mrs. Beaumont. Argentine was a great favourite of hers, and it is said she was in a terrible state for sometime after." 
-A curious look came over Villiers' face; he seemed undecided whether to speak or not. Austin began again. 
-"I never experienced such a feeling of horror as when I read the account of Argentine's death. I didn't understand it at the time, and I don't now. I knew him well, and it completely passes my understanding for what possible cause he—or any of the others for the matter of that—could have resolved in cold blood to die in such an awful manner. You know how men babble away each other's characters in London, you may be sure any buried scandal or hidden skeleton would have been brought to light in such a case as this; but nothing of the sort has taken place. As for the theory of mania, that is very well, of course, for the coroner's jury, but everybody knows that it's all nonsense. Suicidal mania is not small-pox." 
-Austin relapsed into gloomy silence. Villiers sat silent, also, watching his friend. The expression of indecision still fleeted across his face; he seemed as if weighing his thoughts in the balance, and the considerations he was resolving left him still silent. Austin tried to shake off the remembrance of tragedies as hopeless and perplexed as the labyrinth of Daedalus, and began to talk in an indifferent voice of the more pleasant incidents and adventures of the season. 
-"That Mrs. Beaumont," he said, "of whom we were speaking, is a great success; she has taken London almost by storm. I met her the other night at Fulham's; she is really a remarkable woman." 
-"You have met Mrs. Beaumont?" 
-"Yes; she had quite a court around her. She would be called very handsome, I suppose, and yet there is something about her face which I didn't like. The features are exquisite, but the expression is strange. And all the time I was looking at her, and afterwards, when I was going home, I had a curious feeling that very expression was in some way or another familiar to me." 
-"You must have seen her in the Row." 
-"No, I am sure I never set eyes on the woman before; it is that which makes it puzzling. And to the best of my belief I have never seen anyone like her; what I felt was a kind of dim far-off memory, vague but persistent. The only sensation I can compare it to, is that odd feeling one sometimes has in a dream, when fantastic cities and wondrous lands and phantom personages appear familiar and accustomed." 
-Villiers nodded and glanced aimlessly round the room, possibly in search of something on which to turn the conversation. His eyes fell on an old chest somewhat like that in which the artist's strange legacy lay hid beneath a Gothic scutcheon. 
-"Have you written to the doctor about poor Meyrick?" he asked. 
-"Yes; I wrote asking for full particulars as to his illness and death. I don't expect to have an answer for another three weeks or a month. I thought I might as well inquire whether Meyrick knew an Englishwoman named Herbert, and if so, whether the doctor could give me any information about her. But it's very possible that Meyrick fell in with her at New York, or Mexico, or San Francisco; I have no idea as to the extent or direction of his travels." 
-"Yes, and it's very possible that the woman may have more than one name." 
-"Exactly. I wish I had thought of asking you to lend me the portrait of her which you possess. I might have enclosed it in my letter to Dr. Matthews." 
-"So you might; that never occurred to me. We might send it now. Hark! what are those boys calling?" 
-While the two men had been talking together a confused noise of shouting had been gradually growing louder. The noise rose from the eastward and swelled down Piccadilly, drawing nearer and nearer, a very torrent of sound; surging up streets usually quiet, and making every window a frame for a face, curious or excited. The cries and voices came echoing up the silent street where Villiers lived, growing more distinct as they advanced, and, as Villiers spoke, an answer rang up from the pavement: 
-"The West End Horrors; Another Awful Suicide; Full Details!" 
-Austin rushed down the stairs and bought a paper and read out the paragraph to Villiers as the uproar in the street rose and fell. The window was open and the air seemed full of noise and terror. 
-"Another gentleman has fallen a victim to the terrible epidemic of suicide which for the last month has prevailed in the West End. Mr. Sidney Crashaw, of Stoke House, Fulham, and King's Pomeroy, Devon, was found, after a prolonged search, hanging dead from the branch of a tree in his garden at one o'clock today. The deceased gentleman dined last night at the Carlton Club and seemed in his usual health and spirits. He left the club at about ten o'clock, and was seen walking leisurely up St. James's Street a little later. Subsequent to this his movements cannot be traced. On the discovery of the body medical aid was at once summoned, but life had evidently been long extinct. So far as is known, Mr. Crashaw had no trouble or anxiety of any kind. This painful suicide, it will be remembered, is the fifth of the kind in the last month. The authorities at Scotland Yard are unable to suggest any explanation of these terrible occurrences." 
-Austin put down the paper in mute horror. 
-"I shall leave London to-morrow," he said, "it is a city of nightmares. How awful this is, Villiers!" 
-Mr. Villiers was sitting by the window quietly looking out into the street. He had listened to the newspaper report attentively, and the hint of indecision was no longer on his face. 
-"Wait a moment, Austin," he replied, "I have made up my mind to mention a little matter that occurred last night. It stated, I think, that Crashaw was last seen alive in St. James's Street shortly after ten?" 
-"Yes, I think so. I will look again. Yes, you are quite right." 
-"Quite so. Well, I am in a position to contradict that statement at all events. Crashaw was seen after that; considerably later indeed." 
-"How do you know?" 
-"Because I happened to see Crashaw myself at about two o'clock this morning." 
-"You saw Crashaw? You, Villiers?" 
-"Yes, I saw him quite distinctly; indeed, there were but a few feet between us." 
-"Where, in Heaven's name, did you see him?" 
-"Not far from here. I saw him in Ashley Street. He was just leaving a house." 
-"Did you notice what house it was?" 
-"Yes. It was Mrs. Beaumont's." 
-"Villiers! Think what you are saying; there must be some mistake. How could Crashaw be in Mrs. Beaumont's house at two o'clock in the morning? Surely, surely, you must have been dreaming, Villiers; you were always rather fanciful." 
-"No; I was wide awake enough. Even if I had been dreaming as you say, what I saw would have roused me effectually." 
-"What you saw? What did you see? Was there anything strange about Crashaw? But I can't believe it; it is impossible." 
-"Well, if you like I will tell you what I saw, or if you please, what I think I saw, and you can judge for yourself." 
-"Very good, Villiers." 
-The noise and clamour of the street had died away, though now and then the sound of shouting still came from the distance, and the dull, leaden silence seemed like the quiet after an earthquake or a storm. Villiers turned from the window and began speaking. 
-"I was at a house near Regent's Park last night, and when I came away the fancy took me to walk home instead of taking a hansom. It was a clear pleasant night enough, and after a few minutes I had the streets pretty much to myself. It's a curious thing, Austin, to be alone in London at night, the gas-lamps stretching away in perspective, and the dead silence, and then perhaps the rush and clatter of a hansom on the stones, and the fire starting up under the horse's hoofs. I walked along pretty briskly, for I was feeling a little tired of being out in the night, and as the clocks were striking two I turned down Ashley Street, which, you know, is on my way. It was quieter than ever there, and the lamps were fewer; altogether, it looked as dark and gloomy as a forest in winter. I had done about half the length of the street when I heard a door closed very softly, and naturally I looked up to see who was abroad like myself at such an hour. As it happens, there is a street lamp close to the house in question, and I saw a man standing on the step. He had just shut the door and his face was towards me, and I recognized Crashaw directly. I never knew him to speak to, but I had often seen him, and I am positive that I was not mistaken in my man. I looked into his face for a moment, and then—I will confess the truth—I set off at a good run, and kept it up till I was within my own door." 
-"Why?" 
-"Why? Because it made my blood run cold to see that man's face. I could never have supposed that such an infernal medley of passions could have glared out of any human eyes; I almost fainted as I looked. I knew I had looked into the eyes of a lost soul, Austin, the man's outward form remained, but all hell was within it. Furious lust, and hate that was like fire, and the loss of all hope and horror that seemed to shriek aloud to the night, though his teeth were shut; and the utter blackness of despair. I am sure that he did not see me; he saw nothing that you or I can see, but what he saw I hope we never shall. I do not know when he died; I suppose in an hour, or perhaps two, but when I passed down Ashley Street and heard the closing door, that man no longer belonged to this world; it was a devil's face I looked upon." 
-There was an interval of silence in the room when Villiers ceased speaking. The light was failing, and all the tumult of an hour ago was quite hushed. Austin had bent his head at the close of the story, and his hand covered his eyes. 
-"What can it mean?" he said at length. 
-"Who knows, Austin, who knows? It's a black business, but I think we had better keep it to ourselves, for the present at any rate. I will see if I cannot learn anything about that house through private channels of information, and if I do light upon anything I will let you know." 
+            <Synopsis>What do u know there are three other unexplained suicides</Synopsis>
+            <Text>Within three weeks, three more gentlemen, one of them a nobleman, and the two others men of good position and ample means, perished miserably in the almost precisely the same manner. 
+@Swanleigh was found one morning in his dressing-room, hanging from a peg affixed to the wall, and @Collier-Stuart and @Herries had chosen to die as @LordArgentine. 
+There was no explanation in either case; a few bald facts; a living man in the evening, and a body with a black swollen face in the morning. The police had been forced to confess themselves powerless to arrest or to explain the sordid murders of Whitechapel; but before the horrible suicides of Piccadilly and Mayfair they were dumbfoundered, for not even the mere ferocity which did duty as an explanation of the crimes of the East End, could be of service in the West. 
+Each of these men who had resolved to die a tortured shameful death was rich, prosperous, and to all appearances in love with the world, and not the acutest research should ferret out any shadow of a lurking motive in either case. There was a horror in the air, and men looked at one another's faces when they met, each wondering whether the other was to be the victim of the fifth nameless tragedy. 
+Journalists sought in vain for their scrapbooks for materials whereof to concoct reminiscent articles; and the morning paper was unfolded in many a house with a feeling of awe; no man knew when or where the next blow would light. 
 </Text>
         </Document>
         <Document ID="339CD752-A3A7-4B60-8762-4E60C9B7F5DD">
@@ -966,19 +1039,19 @@ Personality
 Captivating
 
 Occupation
-Instagram influencer
+Social media influencer
 
 Habits/Mannerisms
 
 
 Background
-The daughter of a the god of the wild and a 17 yo orphan. Raised by a fuckin sociopath, sent away to live with strangers when she was 12, fell in love with her host sister. When she tried to introduce Rachel to her dad (Pan), Rachel went catatonic or whatever, so that was probably pretty traumatizing.
+The daughter of a the god of the wild and a 17 yo orphan. Raised by evil scientist Raymond, sent away to live with strangers when she was 12, fell in love with her host sister. When she tried to introduce Rachel to her dad (Pan), Rachel went catatonic or whatever, so that was probably pretty traumatizing.
 
 Internal Conflicts
-
+Wanting to like intro everyone to her dad
 
 External Conflicts
-
+Not getting in trouble for killing people by intro-ing them to her dad
 
 Notes
 
@@ -1081,15 +1154,9 @@ Notes
 </Text>
         </Document>
         <Document ID="49A87009-CC83-45D6-81BC-C30DF66E65AE">
-            <Title>TheCityofRessurections</Title>
-            <Synopsis>An avenue of investigation
-
-READER DISCOVERS:
-- A seemingly unrelated cold case of a dead guy in an alley
-- Intro to Helen (via her first husband Herbert)</Synopsis>
-            <Text>III 
-THE CITY OF RESURRECTIONS 
-"Herbert! Good God! Is it possible?" 
+            <Title>Talk to a begger</Title>
+            <Synopsis>Talk to a begger</Synopsis>
+            <Text>"Herbert! Good God! Is it possible?" 
 "Yes, my name's Herbert. I think I know your face, too, but I don't remember your name. My memory is very queer." 
 "Don't you recollect Villiers of Wadham?" 
 "So it is, so it is. I beg your pardon, Villiers, I didn't think I was begging of an old college friend. Good-night." 
@@ -1112,22 +1179,12 @@ Villiers took the unfortunate man to his rooms, and gave him a meal. Herbert cou
 "By the way, Herbert," said Villiers, as they parted at the door, "what was your wife's name? You said Helen, I think? Helen what?" 
 "The name she passed under when I met her was Helen Vaughan, but what her real name was I can't say. I don't think she had a name. No, no, not in that sense. Only human beings have names, Villiers; I can't say anymore. Good-bye; yes, I will not fail to call if I see any way in which you can help me. Good-night." 
 The man went out into the bitter night, and Villiers returned to his fireside. There was something about Herbert which shocked him inexpressibly; not his poor rags nor the marks which poverty had set upon his face, but rather an indefinite terror which hung about him like a mist. He had acknowledged that he himself was not devoid of blame; the woman, he had avowed, had corrupted him body and soul, and Villiers felt that this man, once his friend, had been an actor in scenes evil beyond the power of words. His story needed no confirmation: he himself was the embodied proof of it. Villiers mused curiously over the story he had heard, and wondered whether he had heard both the first and the last of it. "No," he thought, "certainly not the last, probably only the beginning. A case like this is like a nest of Chinese boxes; you open one after the other and find a quainter workmanship in every box. Most likely poor Herbert is merely one of the outside boxes; there are stranger ones to follow." 
-Villiers could not take his mind away from Herbert and his story, which seemed to grow wilder as the night wore on. The fire seemed to burn low, and the chilly air of the morning crept into the room; Villiers got up with a glance over his shoulder, and, shivering slightly, went to bed. 
-A few days later he saw at his club a gentleman of his acquaintance, named Austin, who was famous for his intimate knowledge of London life, both in its tenebrous and luminous phases. Villiers, still full of his encounter in Soho and its consequences, thought Austin might possibly be able to shed some light on Herbert's history, and so after some casual talk he suddenly put the question: 
-"Do you happen to know anything of a man named Herbert—Charles Herbert?" 
-Austin turned round sharply and stared at Villiers with some astonishment. 
-"Charles Herbert? Weren't you in town three years ago? No; then you have not heard of the Paul Street case? It caused a good deal of sensation at the time." 
-"What was the case?" 
-"Well, a gentleman, a man of very good position, was found dead, stark dead, in the area of a certain house in Paul Street, off Tottenham Court Road. Of course the police did not make the discovery; if you happen to be sitting up all night and have a light in your window, the constable will ring the bell, but if you happen to be lying dead in somebody's area, you will be left alone. In this instance, as in many others, the alarm was raised by some kind of vagabond; I don't mean a common tramp, or a public-house loafer, but a gentleman, whose business or pleasure, or both, made him a spectator of the London streets at five o'clock in the morning. This individual was, as he said, 'going home,' it did not appear whence or whither, and had occasion to pass through Paul Street between four and five a.m. Something or other caught his eye at Number 20; he said, absurdly enough, that the house had the most unpleasant physiognomy he had ever observed, but, at any rate, he glanced down the area and was a good deal astonished to see a man lying on the stones, his limbs all huddled together, and his face turned up. Our gentleman thought his face looked peculiarly ghastly, and so set off at a run in search of the nearest policeman. The constable was at first inclined to treat the matter lightly, suspecting common drunkenness; however, he came, and after looking at the man's face, changed his tone, quickly enough. The early bird, who had picked up this fine worm, was sent off for a doctor, and the policeman rang and knocked at the door till a slatternly servant girl came down looking more than half asleep. The constable pointed out the contents of the area to the maid, who screamed loudly enough to wake up the street, but she knew nothing of the man; had never seen him at the house, and so forth. Meanwhile, the original discoverer had come back with a medical man, and the next thing was to get into the area. The gate was open, so the whole quartet stumped down the steps. The doctor hardly needed a moment's examination; he said the poor fellow had been dead for several hours, and it was then the case began to get interesting. The dead man had not been robbed, and in one of his pockets were papers identifying him as—well, as a man of good family and means, a favourite in society, and nobody's enemy, as far as could be known. I don't give his name, Villiers, because it has nothing to do with the story, and because it's no good raking up these affairs about the dead when there are no relations living. The next curious point was that the medical men couldn't agree as to how he met his death. There were some slight bruises on his shoulders, but they were so slight that it looked as if he had been pushed roughly out of the kitchen door, and not thrown over the railings from the street or even dragged down the steps. But there were positively no other marks of violence about him, certainly none that would account for his death; and when they came to the autopsy there wasn't a trace of poison of any kind. Of course the police wanted to know all about the people at Number 20, and here again, so I have heard from private sources, one or two other very curious points came out. It appears that the occupants of the house were a Mr. and Mrs. Charles Herbert; he was said to be a landed proprietor, though it struck most people that Paul Street was not exactly the place to look for country gentry. As for Mrs. Herbert, nobody seemed to know who or what she was, and, between ourselves, I fancy the divers after her history found themselves in rather strange waters. Of course they both denied knowing anything about the deceased, and in default of any evidence against them they were discharged. But some very odd things came out about them. Though it was between five and six in the morning when the dead man was removed, a large crowd had collected, and several of the neighbours ran to see what was going on. They were pretty free with their comments, by all accounts, and from these it appeared that Number 20 was in very bad odour in Paul Street. The detectives tried to trace down these rumours to some solid foundation of fact, but could not get hold of anything. People shook their heads and raised their eyebrows and thought the Herberts rather 'queer,' 'would rather not be seen going into their house,' and so on, but there was nothing tangible. The authorities were morally certain the man met his death in some way or another in the house and was thrown out by the kitchen door, but they couldn't prove it, and the absence of any indications of violence or poisoning left them helpless. An odd case, wasn't it? But curiously enough, there's something more that I haven't told you. I happened to know one of the doctors who was consulted as to the cause of death, and some time after the inquest I met him, and asked him about it. 'Do you really mean to tell me,' I said, 'that you were baffled by the case, that you actually don't know what the man died of?' 'Pardon me,' he replied, 'I know perfectly well what caused death. Blank died of fright, of sheer, awful terror; I never saw features so hideously contorted in the entire course of my practice, and I have seen the faces of a whole host of dead.' The doctor was usually a cool customer enough, and a certain vehemence in his manner struck me, but I couldn't get anything more out of him. I suppose the Treasury didn't see their way to prosecuting the Herberts for frightening a man to death; at any rate, nothing was done, and the case dropped out of men's minds. Do you happen to know anything of Herbert?" 
-"Well," replied Villiers, "he was an old college friend of mine." 
-"You don't say so? Have you ever seen his wife?" 
-"No, I haven't. I have lost sight of Herbert for many years." 
-"It's queer, isn't it, parting with a man at the college gate or at Paddington, seeing nothing of him for years, and then finding him pop up his head in such an odd place. But I should like to have seen Mrs. Herbert; people said extraordinary things about her." 
-"What sort of things?" 
-"Well, I hardly know how to tell you. Everyone who saw her at the police court said she was at once the most beautiful woman and the most repulsive they had ever set eyes on. I have spoken to a man who saw her, and I assure you he positively shuddered as he tried to describe the woman, but he couldn't tell why. She seems to have been a sort of enigma; and I expect if that one dead man could have told tales, he would have told some uncommonly queer ones. And there you are again in another puzzle; what could a respectable country gentleman like Mr. Blank (we'll call him that if you don't mind) want in such a very queer house as Number 20? It's altogether a very odd case, isn't it?" 
-"It is indeed, Austin; an extraordinary case. I didn't think, when I asked you about my old friend, I should strike on such strange metal. Well, I must be off; good-day." 
-Villiers went away, thinking of his own conceit of the Chinese boxes; here was quaint workmanship indeed. 
 </Text>
+            <Notes>An avenue of investigation
+
+READER DISCOVERS:
+- A seemingly unrelated cold case of a dead guy in an alley
+- Intro to Helen (via her first husband Herbert)</Notes>
         </Document>
         <Document ID="69822417-D015-4BDD-90BD-18AAA6198D15">
             <Title>Notes</Title>
@@ -1542,6 +1599,23 @@ Mary never recovered her reason. She lay, as you saw her, all the while upon her
         </Document>
         <Document ID="5C03DE09-C285-48ED-827F-78E62B7D0F72">
             <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="75B20DD2-DCE4-484C-88D4-3D2D16DDF156">
+            <Synopsis>K but make it not about herbert to start</Synopsis>
+            <Text>A few days later he saw at his club a gentleman of his acquaintance, named Austin, who was famous for his intimate knowledge of London life, both in its tenebrous and luminous phases. Villiers thought Austin might possibly be able to shed some light on the case, and so after some casual talk he suddenly put the question: 
+"Do you happen to know anything of a man named Herbert—Charles Herbert?" 
+Austin turned round sharply and stared at Villiers with some astonishment. 
+"Charles Herbert? Weren't you in town three years ago? No; then you have not heard of the Paul Street case? It caused a good deal of sensation at the time." 
+"What was the case?" 
+"Well, a gentleman, a man of very good position, was found dead, stark dead, in the area of a certain house in Paul Street, off Tottenham Court Road. Of course the police did not make the discovery; if you happen to be sitting up all night and have a light in your window, the constable will ring the bell, but if you happen to be lying dead in somebody's area, you will be left alone. In this instance, as in many others, the alarm was raised by some kind of vagabond; I don't mean a common tramp, or a public-house loafer, but a gentleman, whose business or pleasure, or both, made him a spectator of the London streets at five o'clock in the morning. This individual was, as he said, 'going home,' it did not appear whence or whither, and had occasion to pass through Paul Street between four and five a.m. Something or other caught his eye at Number 20; he said, absurdly enough, that the house had the most unpleasant physiognomy he had ever observed, but, at any rate, he glanced down the area and was a good deal astonished to see a man lying on the stones, his limbs all huddled together, and his face turned up. Our gentleman thought his face looked peculiarly ghastly, and so set off at a run in search of the nearest policeman. The constable was at first inclined to treat the matter lightly, suspecting common drunkenness; however, he came, and after looking at the man's face, changed his tone, quickly enough. The early bird, who had picked up this fine worm, was sent off for a doctor, and the policeman rang and knocked at the door till a slatternly servant girl came down looking more than half asleep. The constable pointed out the contents of the area to the maid, who screamed loudly enough to wake up the street, but she knew nothing of the man; had never seen him at the house, and so forth. Meanwhile, the original discoverer had come back with a medical man, and the next thing was to get into the area. The gate was open, so the whole quartet stumped down the steps. The doctor hardly needed a moment's examination; he said the poor fellow had been dead for several hours, and it was then the case began to get interesting. The dead man had not been robbed, and in one of his pockets were papers identifying him as—well, as a man of good family and means, a favourite in society, and nobody's enemy, as far as could be known. I don't give his name, Villiers, because it has nothing to do with the story, and because it's no good raking up these affairs about the dead when there are no relations living. The next curious point was that the medical men couldn't agree as to how he met his death. There were some slight bruises on his shoulders, but they were so slight that it looked as if he had been pushed roughly out of the kitchen door, and not thrown over the railings from the street or even dragged down the steps. But there were positively no other marks of violence about him, certainly none that would account for his death; and when they came to the autopsy there wasn't a trace of poison of any kind. Of course the police wanted to know all about the people at Number 20, and here again, so I have heard from private sources, one or two other very curious points came out. It appears that the occupants of the house were a Mr. and Mrs. Charles Herbert; he was said to be a landed proprietor, though it struck most people that Paul Street was not exactly the place to look for country gentry. As for Mrs. Herbert, nobody seemed to know who or what she was, and, between ourselves, I fancy the divers after her history found themselves in rather strange waters. Of course they both denied knowing anything about the deceased, and in default of any evidence against them they were discharged. But some very odd things came out about them. Though it was between five and six in the morning when the dead man was removed, a large crowd had collected, and several of the neighbours ran to see what was going on. They were pretty free with their comments, by all accounts, and from these it appeared that Number 20 was in very bad odour in Paul Street. The detectives tried to trace down these rumours to some solid foundation of fact, but could not get hold of anything. People shook their heads and raised their eyebrows and thought the Herberts rather 'queer,' 'would rather not be seen going into their house,' and so on, but there was nothing tangible. The authorities were morally certain the man met his death in some way or another in the house and was thrown out by the kitchen door, but they couldn't prove it, and the absence of any indications of violence or poisoning left them helpless. An odd case, wasn't it? But curiously enough, there's something more that I haven't told you. I happened to know one of the doctors who was consulted as to the cause of death, and some time after the inquest I met him, and asked him about it. 'Do you really mean to tell me,' I said, 'that you were baffled by the case, that you actually don't know what the man died of?' 'Pardon me,' he replied, 'I know perfectly well what caused death. Blank died of fright, of sheer, awful terror; I never saw features so hideously contorted in the entire course of my practice, and I have seen the faces of a whole host of dead.' The doctor was usually a cool customer enough, and a certain vehemence in his manner struck me, but I couldn't get anything more out of him. I suppose the Treasury didn't see their way to prosecuting the Herberts for frightening a man to death; at any rate, nothing was done, and the case dropped out of men's minds. Do you happen to know anything of Herbert?" 
+"Well," replied Villiers, "he was an old college friend of mine." 
+"You don't say so? Have you ever seen his wife?" 
+"No, I haven't. I have lost sight of Herbert for many years." 
+"It's queer, isn't it, parting with a man at the college gate or at Paddington, seeing nothing of him for years, and then finding him pop up his head in such an odd place. But I should like to have seen Mrs. Herbert; people said extraordinary things about her." 
+"What sort of things?" 
+"Well, I hardly know how to tell you. Everyone who saw her at the police court said she was at once the most beautiful woman and the most repulsive they had ever set eyes on. I have spoken to a man who saw her, and I assure you he positively shuddered as he tried to describe the woman, but he couldn't tell why. She seems to have been a sort of enigma; and I expect if that one dead man could have told tales, he would have told some uncommonly queer ones. And there you are again in another puzzle; what could a respectable country gentleman like Mr. Blank (we'll call him that if you don't mind) want in such a very queer house as Number 20? It's altogether a very odd case, isn't it?" 
+"It is indeed, Austin; an extraordinary case. I didn't think, when I asked you about my old friend, I should strike on such strange metal. Well, I must be off; good-day." 
+Villiers went away, thinking of his own conceit of the Chinese boxes; here was quaint workmanship indeed. </Text>
         </Document>
         <Document ID="6139B779-98C4-4FA4-A29A-B12297D747E6">
             <Title>ACT III</Title>
