@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="15DFEA94-CD42-4847-AB3E-37C2F008BF99" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="Joyces-MacBook-Pro" Author="Joyce Rice" Modified="2019-05-03 14:01:17 -0400" ModID="28283E45-89E4-40C0-BDBB-1FB4EE1EE180">
+<ScrivenerProject Identifier="15DFEA94-CD42-4847-AB3E-37C2F008BF99" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="Joyces-MacBook-Pro" Author="Joyce Rice" Modified="2019-05-07 17:25:55 -0400" ModID="5F66703D-D3DA-4480-9C8F-C639A34D32D3">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2019-05-02 14:13:15 -0400" Modified="2019-05-02 14:13:15 -0400">
             <Title>Novel Format</Title>
@@ -14,23 +14,23 @@
         <BinderItem UUID="4A1D6B18-0952-42EB-A487-D17915DD3BA1" Type="DraftFolder" Created="2019-05-02 14:13:15 -0400" Modified="2019-05-02 14:13:15 -0400">
             <Title>Manuscript</Title>
             <Children>
-                <BinderItem UUID="414E7BE7-05F4-4049-AB9F-EEAD70712F3A" Type="Text" Created="2019-05-03 13:20:00 -0400" Modified="2019-05-03 13:51:03 -0400">
+                <BinderItem UUID="4ED37528-C5FC-44C8-B1E9-E5B6C83A1E75" Type="Text" Created="2019-05-03 13:54:48 -0400" Modified="2019-05-07 17:25:10 -0400">
+                    <Title>BASIC OUTLINE</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1363,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="414E7BE7-05F4-4049-AB9F-EEAD70712F3A" Type="Text" Created="2019-05-03 13:20:00 -0400" Modified="2019-05-07 17:24:24 -0400">
                     <Title>RABBIT-HOLE</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>132,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3746,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="4ED37528-C5FC-44C8-B1E9-E5B6C83A1E75" Type="Text" Created="2019-05-03 13:54:48 -0400" Modified="2019-05-03 14:01:17 -0400">
-                    <Title>BASIC OUTLINE</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>452,0</TextSelection>
+                        <TextSelection>1039,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="365ADEA3-578C-433A-8ADA-6C1B469CAF8F" Type="Folder" Created="2019-05-02 14:41:14 -0400" Modified="2019-05-02 14:42:29 -0400">
@@ -48,17 +48,35 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1454,0</TextSelection>
+                                <TextSelection>349,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="49A87009-CC83-45D6-81BC-C30DF66E65AE" Type="Text" Created="2019-05-02 14:21:06 -0400" Modified="2019-05-03 13:51:57 -0400">
+                        <BinderItem UUID="49A87009-CC83-45D6-81BC-C30DF66E65AE" Type="Text" Created="2019-05-02 14:21:06 -0400" Modified="2019-05-07 17:15:33 -0400">
                             <Title>Talk to a begger</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>154,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>8138,0</TextSelection>
+                                <TextSelection>2863,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="75B20DD2-DCE4-484C-88D4-3D2D16DDF156" Type="Text" Created="2019-05-03 13:47:03 -0400" Modified="2019-05-07 17:25:53 -0400">
+                            <Title>Visit Austin, learn about Paul st</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>7483,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A92E603C-A4BB-479A-8A85-3DDABA76ED36" Type="Text" Created="2019-05-07 17:03:51 -0400" Modified="2019-05-07 17:07:30 -0400">
+                            <Title>Learn who Pan is</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>179,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -72,26 +90,17 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="75B20DD2-DCE4-484C-88D4-3D2D16DDF156" Type="Text" Created="2019-05-03 13:47:03 -0400" Modified="2019-05-03 13:58:43 -0400">
-                            <Title>Visit Austin</Title>
+                        <BinderItem UUID="AD76CCE8-0EDA-4E78-B4C7-6FBA58F3BCEF" Type="Text" Created="2019-05-02 14:21:14 -0400" Modified="2019-05-07 16:28:57 -0400">
+                            <Title>Visit PAUL ST HOUSE</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>397,0</TextSelection>
+                                <TextSelection>585,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="AD76CCE8-0EDA-4E78-B4C7-6FBA58F3BCEF" Type="Text" Created="2019-05-02 14:21:14 -0400" Modified="2019-05-03 13:53:37 -0400">
-                            <Title>Visit Clarke</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>7491,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="3183E94D-7673-4270-841A-D7D2BC797DDE" Type="Text" Created="2019-05-03 13:41:29 -0400" Modified="2019-05-03 13:41:55 -0400">
-                            <Title>Visit Austin</Title>
+                        <BinderItem UUID="3183E94D-7673-4270-841A-D7D2BC797DDE" Type="Text" Created="2019-05-03 13:41:29 -0400" Modified="2019-05-07 17:08:19 -0400">
+                            <Title>Ask Austin about Mrs Beaumontj</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -99,22 +108,13 @@
                                 <TextSelection>11302,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="98840781-AD34-46C7-8355-FB1938518136" Type="Text" Created="2019-05-02 14:21:19 -0400" Modified="2019-05-02 14:54:34 -0400">
-                            <Title>TheLetterOfAdvice</Title>
+                        <BinderItem UUID="CC7B6A16-C5A0-475C-93C6-9334B565CDCF" Type="Text" Created="2019-05-02 14:19:23 -0400" Modified="2019-05-07 17:08:36 -0400">
+                            <Title>Helen's old blog post</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>10226,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="76146CA9-AC72-4846-9A68-C8DA94104F5B" Type="Text" Created="2019-05-02 14:21:27 -0400" Modified="2019-05-02 14:53:07 -0400">
-                            <Title>TheEncounterInSoho</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>15127,0</TextSelection>
+                                <TextSelection>3716,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -128,6 +128,24 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
+                        <BinderItem UUID="98840781-AD34-46C7-8355-FB1938518136" Type="Text" Created="2019-05-02 14:21:19 -0400" Modified="2019-05-07 17:09:59 -0400">
+                            <Title>Show drawing to Austin</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4358,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="76146CA9-AC72-4846-9A68-C8DA94104F5B" Type="Text" Created="2019-05-02 14:21:27 -0400" Modified="2019-05-07 17:12:40 -0400">
+                            <Title>Go to Ashley st</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1505,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem UUID="0A7EDD9F-9DE0-4CC9-9AC1-EE0E3769B6A8" Type="Text" Created="2019-05-02 14:13:15 -0400" Modified="2019-05-02 14:56:03 -0400">
                             <Title>TheExperiment</Title>
                             <MetaData>
@@ -135,18 +153,20 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>16488,0</TextSelection>
+                                <TextSelection>235,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="CC7B6A16-C5A0-475C-93C6-9334B565CDCF" Type="Text" Created="2019-05-02 14:19:23 -0400" Modified="2019-05-02 14:44:03 -0400">
-                            <Title>MrClarkesMemoirs</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>3716,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="DFF4809A-93FA-4FF7-81CC-38577279F7D9" Type="Folder" Created="2019-05-07 17:01:50 -0400" Modified="2019-05-07 17:01:52 -0400">
+                    <Title>ACT V</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
                         <BinderItem UUID="DFF92587-49DD-4E80-84AF-F1496289210E" Type="Text" Created="2019-05-02 14:21:32 -0400" Modified="2019-05-02 14:53:56 -0400">
                             <Title>TheFragments</Title>
                             <MetaData>
@@ -157,6 +177,27 @@
                             </TextSettings>
                         </BinderItem>
                     </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="69822417-D015-4BDD-90BD-18AAA6198D15" Type="Folder" Created="2019-05-02 14:13:15 -0400" Modified="2019-05-02 14:13:15 -0400">
+            <Title>Notes</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Notes (Yellow Notepad)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="7FDBFF9C-CFE9-4ADD-913C-A52052225F4A" Type="Text" Created="2019-05-02 14:14:35 -0400" Modified="2019-05-02 14:18:50 -0400">
+                    <Title>original-text</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -357,27 +398,6 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem UUID="69822417-D015-4BDD-90BD-18AAA6198D15" Type="Folder" Created="2019-05-02 14:13:15 -0400" Modified="2019-05-02 14:13:15 -0400">
-            <Title>Notes</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-                <IconFileName>Notes (Yellow Notepad)</IconFileName>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>0,0</TextSelection>
-            </TextSettings>
-            <Children>
-                <BinderItem UUID="7FDBFF9C-CFE9-4ADD-913C-A52052225F4A" Type="Text" Created="2019-05-02 14:14:35 -0400" Modified="2019-05-02 14:18:50 -0400">
-                    <Title>original-text</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-            </Children>
-        </BinderItem>
         <BinderItem UUID="669D7B65-8096-4EFD-A0E2-6BDE8C1E3585" Type="ResearchFolder" Created="2019-05-02 14:13:15 -0400" Modified="2019-05-02 14:13:15 -0400">
             <Title>Research</Title>
             <Children>
@@ -529,6 +549,24 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="3BEF1B0B-E75B-4AF4-9783-53D32D55B0AF" Type="Text" Created="2019-05-07 16:38:59 -0400" Modified="2019-05-07 16:59:54 -0400">
+                    <Title>TIMELINE</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="0DE1B88E-7763-48E5-9635-AFCC838C0230" Type="Folder" Created="2019-05-07 17:01:43 -0400" Modified="2019-05-07 17:01:46 -0400">
+                    <Title>ACT IV</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -601,13 +639,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="1939" Characters="10504" Date="2019-05-03 13:18:41 -0400"/>
+        <PreviousSession Words="291" Characters="1735" Date="2019-05-07 16:24:27 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-05-03 00:00:00 -0400">
-        <DraftWordCount>-333</DraftWordCount>
-        <DraftCharCount>-1760</DraftCharCount>
-        <OtherWordCount>34</OtherWordCount>
-        <OtherCharCount>180</OtherCharCount>
+    <RecentWritingHistory Date="2019-05-07 00:00:00 -0400">
+        <DraftWordCount>-1</DraftWordCount>
+        <DraftCharCount>-18</DraftCharCount>
+        <OtherWordCount>92</OtherWordCount>
+        <OtherCharCount>518</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>

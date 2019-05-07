@@ -69,6 +69,8 @@
 		<string>669D7B65-8096-4EFD-A0E2-6BDE8C1E3585</string>
 		<string>9A470BDE-CF2B-4872-97C6-74F19BC90197</string>
 	</array>
+	<key>binderWidth</key>
+	<real>223</real>
 	<key>bookmarksNotesMode</key>
 	<integer>0</integer>
 	<key>bookmarksPreviewTextSettings</key>
@@ -120,7 +122,8 @@
 	<true/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {687, 224}}</string>
+		<string>{{0, 0}, {978.5, 939}}</string>
+		<string>{{979.5, 0}, {476.5, 939}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>0</integer>
@@ -145,11 +148,10 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1192, 939}}</string>
-		<string>{{1193, 0}, {263, 939}}</string>
+		<string>{{0, 0}, {336, 959}}</string>
 	</array>
 	<key>inspectorWidth</key>
-	<real>201</real>
+	<real>263</real>
 	<key>lastDocumentSplitType</key>
 	<integer>1</integer>
 	<key>mainDocumentEditor.PDFAutoScales</key>
@@ -283,7 +285,7 @@
 		<array/>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 294}}</string>
+	<string>{{0, 14}, {461, 883}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>supportingDocumentEditor.selectedItemUUIDs</key>

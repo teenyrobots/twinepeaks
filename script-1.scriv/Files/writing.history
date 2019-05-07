@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WritingHistory>
     <Day dwc="43353" dcc="235341" dtwc="0" owc="136" occ="765" dtcc="0">2019-05-02</Day>
-    <Day dwc="-333" dcc="-1760" owc="34" occ="180">2019-05-03</Day>
+    <Day dwc="-333" dcc="-1760" dtwc="0" owc="34" occ="180" dtcc="0">2019-05-03</Day>
+    <Day dwc="-1" dcc="-18" owc="92" occ="518">2019-05-07</Day>
 </WritingHistory>
