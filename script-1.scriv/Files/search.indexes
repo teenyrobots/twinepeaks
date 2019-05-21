@@ -39,14 +39,15 @@ TK WILD SHIT
 Chaos +1
 
 Ugh I thought we decided I was only on spooky cases now
-@Chief: Do I look like I think literally anything is spooky??? The internet socialites are ALL SAUCED UP over this and their shareholders basically own the force! Get this out of the papers and into the closed case files, Villiers or you’re off the force!! 
+@Chief: Do I look like I think literally anything is spooky??? The internet socialites are ALL SAUCED UP over this and their shareholders basically own the force! Get this out of the papers and into the closed case files, Villiers, or you’re off the force!! 
 
 The Chief thrusts the paper into your coffee. You use it to blot the spilled coffee unnecessarily off your black jacket. Through the bleeding ink you reluctantly read [above].
 
 Pretend to read it, but actually read the secondary headline
 TK WILD SHIT 
 CHAOS +1
-Option to read the actual article?</Text>
+
+Feeling pretty wild and spooked, you give the obituary a cursory glance [above].</Text>
             <Notes>- Click on handles to see profiles!!
 - Generally replacing “London”/high-society people with “the internet”/social media influencers
 - the name of the game is cut cut cut cut, we probably need to cut way more than this</Notes>
@@ -794,6 +795,44 @@ The custodian of the museum informed me that local antiquaries were much puzzled
 Mary never recovered her reason. She lay, as you saw her, all the while upon her bed, and a few days after the child was born she died. I fancy that just at the last she knew me; I was standing by the bed, and the old look came into her eyes for a second, and then she shuddered and groaned and died. It was an ill work I did that night when you were present; I broke open the door of the house of life, without knowing or caring what might pass forth or enter in. I recollect your telling me at the time, sharply enough, and rightly too, in one sense, that I had ruined the reason of a human being by a foolish experiment, based on an absurd theory. You did well to blame me, but my theory was not all absurdity. What I said Mary would see she saw, but I forgot that no human eyes can look on such a sight with impunity. And I forgot, as I have just said, that when the house of life is thus thrown open, there may enter in that for which we have no name, and human flesh may become the veil of a horror one dare not express. I played with energies which I did not understand, you have seen the ending of it. Helen Vaughan did well to bind the cord about her neck and die, though the death was horrible. The blackened face, the hideous form upon the bed, changing and melting before your eyes from woman to man, from man to beast, and from beast to worse than beast, all the strange horror that you witness, surprises me but little. What you say the doctor whom you sent for saw and shuddered at I noticed long ago; I knew what I had done the moment the child was born, and when it was scarcely five years old I surprised it, not once or twice but several times with a playmate, you may guess of what kind. It was for me a constant, an incarnate horror, and after a few years I felt I could bear it no more, and I sent Helen Vaughan away. You know now what frightened the boy in the wood. The rest of the strange story, and all else that you tell me, as discovered by your friend, I have contrived to learn from time to time, almost to the last chapter. And now Helen is with her companions... 
 </Text>
         </Document>
+        <Document ID="2662A044-E1AE-4F31-A19C-D0F6E1B7BB9D">
+            <Title>VARIABLES</Title>
+            <Text>World state management
+Variables
+Some/all should be transparent to the player to some degree—they should know that their choices have consequences. Final variable names don’t matter, just thinking about how they influence the story progression.
+	◦	Pan power
+	◦	Chief rage
+	◦	Helen knowledge
+
+Story structure
+Rabbit Hole 
+@LordArgentine dies
+
+Investigations
+These are lines you can investigate. Each of these is relatively linear, but change slightly based on variables
+	•	Spooky happenings
+- Makes you less vulnerable to Pan
+- More vulnerable to getting thrown off the case
+
+	•	Socialite murders (viz., your literal job)
+- Keeps Chief from throwing you off the case
+- Makes you vulnerable to Pan
+
+	•	Helen’s past
+- Less vulnerable to Helen
+- When you know things about Helen she is less vulnerable to you
+
+Endings
+	◆	Thrown off the case
+- Too many crimes committed, Chief is too mad
+
+	◆	You kill Helen
+- Helen is killed with information
+
+	◆	Helen sacrifices you to Pan
+- Pan is too powerful for you to resist
+</Text>
+        </Document>
         <Document ID="98EA5CEF-B7B1-468C-83CD-9AB24AFAFDF3">
             <Title>Dedication</Title>
             <Text>
@@ -1055,7 +1094,6 @@ READER DISCOVERS:
             <Title>Paperback</Title>
         </Document>
         <Document ID="080B241A-F188-4EB4-9F98-609F47608DA9">
-            <Title>WORLD-STATE-TRACKERS</Title>
             <Text>World State Ideas
 Time - 
 measured by transitions (links clicked, scenes finished, locations visited, etc.)
@@ -1099,6 +1137,117 @@ Wow this is so hard! Maybe I’m trying to hew too close to the original text.</
         <Document ID="6139B779-98C4-4FA4-A29A-B12297D747E6">
             <Title>ACT III</Title>
             <Synopsis>Wrap this shit UP </Synopsis>
+        </Document>
+        <Document ID="AC93DBCD-27D9-4E0A-98A4-DA984E973856">
+            <Title>Investigate @Herries</Title>
+            <Text>Investigate @Herries
+@Herries chose to die in the same manor as @LordArgentine. Not the acutest research should ferret out any shadow of a lurking motive. After their @Herries’ death, there was a horror in the air, and men looked at one another's faces when they met, each wondering whether the other was to be the next victim of this nameless tragedy. </Text>
+        </Document>
+        <Document ID="A01D76FD-6D6D-4A05-B3D7-72013BF9A630">
+            <Title>Standard Manuscript</Title>
+            <Text>Andrew Nonymous
+Your manuscript should
+have your address
+and contact details
+on the title page only.
+If you have an agent, your
+agent's address can be
+included beneath.
+700 words.
+NOVEL STANDARD MANUSCRIPT FORMAT
+       by Forename Surname
+Chapter One
+     Standard manuscript format is often required for novels
+so that work can easily be read by editors. It allows editors
+to estimate word count and determine roughly how many pages
+will be required to produce a book using the page size, style
+and font used by their house. This PDF file was generated
+using Scrivener's Compile feature and was created using the
+"Novel" project template.
+     Manuscripts for full-length novels require a separate
+title page. The author's name, address, telephone number and
+e-mail address should be shown in the upper-left corner of the
+title page, single-spaced. The title of the story should
+appear in all-caps about half-way down the page. The author's
+name follows the title on the by-line as the author wants it
+to appear when published. A real name or pseudonym may be used
+and may include initials, actual given name or professional
+Surname / TITLE / 1
+designation.
+     All text should be double-spaced and left-justified with
+a ragged right margin. Paragraphs should be indented by about
+five spaces (half an inch) and not separated by an additional
+blank line. (It used to be traditional to separate each
+sentence with two spaces, but in these days of word processors
+this is now less common.) A 12-point font such as Courier,
+Times New Roman or Arial should be used throughout. In
+Scrivener, however, you can write using any font and
+formatting you choose--the options in Compile can be used to
+change the formatting in the compiled document. In the "Novel"
+project template, the Compile settings will deal with changing
+the font and formatting to those required for standard
+manuscript format.
+     Top, bottom, left and right margins should all be
+approximately one inch, not allowing for the page header. Each
+page except for the title page should include a header
+comprising the author's real surname, the title of the work
+(or a key word from the title) in capitals, and the page
+number. In Scrivener, all of this is handled for you by the
+"Manuscript" Compile formats.
+                               #
+     Scene breaks are indicated with the hash character. Do
+not simply add an extra line space as this can be missed by
+Surname / TITLE / 2
+the typesetter. The "Separators" pane of Scrivener's Compile
+sheet can handle this for you if you are writing each scene as
+a separate text document. In general, this will be handled by
+Compile in Scrivener, however, so that you can either leave
+empty lines in the text (and Scrivener will insert the hash
+character during Compile) or use different documents for
+different sections (and Scrivener will add the hash between
+them).
+     Some editors and publishers prefer emphasis to be
+indicated by underlining rather than italics. In Scrivener,
+this conversion can be handled by Compile. The "Manuscript
+(Courier)" Compile format will convert italics to underlines,
+whereas the "Manuscript (Times)" format will not.
+Surname / TITLE / 3
+Chapter Two
+     Begin each new chapter on a new page like this with the
+chapter number about a third of the way down the page. In
+Scrivener, this can all be dealt with in the Compile settings.
+In Scrivener, all of this is handled automatically by the
+"Manuscript" compile formats.
+     Although it is often said that writers should not use the
+word-count features of their computers to determine the number
+of words in a manuscript, most publishers and editors will
+happily accept a word processor word count these days. In
+Scrivener, you can insert a word count of your manuscript by
+using Edit &gt; Insert &gt; Draft Word Count (for a manuscript, you
+may wish to have the word count rounded to the nearest 100, in
+which case select Edit &gt; Insert &gt; Draft Word Count &gt; Rounded
+To Nearest 100--this feature is used on the title page of this
+manuscript, in fact).
+Surname / TITLE / 4
+     Note that the actual word count will not be inserted, but
+a tag that will be substituted for the word count upon export.
+In reality, the formatting of a manuscript is often only
+really crucial when submitting directly to a publisher--first
+time novelists will usually submit to an agent first, and
+agents are often less picky about format and will point you in
+the right direction before submitting your work to a
+publisher.
+                               #
+     Much of the information contained in this document is
+based on a description of novel manuscript format by Matt
+Carless for the BBC Writers' Room website: http://
+www.bbc.co.uk/writersroom
+#####
+Surname / TITLE / 5
+</Text>
+        </Document>
+        <Document ID="45CBBEC1-DF54-4394-920C-DE4E11EEA23A">
+            <Title>TheDiscoveryInPaulStreet</Title>
         </Document>
         <Document ID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC">
             <Title>Novel Format</Title>
@@ -1212,112 +1361,6 @@ Like all templates in Scrivener, this project was originally created from the �
 
 You can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
         </Document>
-        <Document ID="A01D76FD-6D6D-4A05-B3D7-72013BF9A630">
-            <Title>Standard Manuscript</Title>
-            <Text>Andrew Nonymous
-Your manuscript should
-have your address
-and contact details
-on the title page only.
-If you have an agent, your
-agent's address can be
-included beneath.
-700 words.
-NOVEL STANDARD MANUSCRIPT FORMAT
-       by Forename Surname
-Chapter One
-     Standard manuscript format is often required for novels
-so that work can easily be read by editors. It allows editors
-to estimate word count and determine roughly how many pages
-will be required to produce a book using the page size, style
-and font used by their house. This PDF file was generated
-using Scrivener's Compile feature and was created using the
-"Novel" project template.
-     Manuscripts for full-length novels require a separate
-title page. The author's name, address, telephone number and
-e-mail address should be shown in the upper-left corner of the
-title page, single-spaced. The title of the story should
-appear in all-caps about half-way down the page. The author's
-name follows the title on the by-line as the author wants it
-to appear when published. A real name or pseudonym may be used
-and may include initials, actual given name or professional
-Surname / TITLE / 1
-designation.
-     All text should be double-spaced and left-justified with
-a ragged right margin. Paragraphs should be indented by about
-five spaces (half an inch) and not separated by an additional
-blank line. (It used to be traditional to separate each
-sentence with two spaces, but in these days of word processors
-this is now less common.) A 12-point font such as Courier,
-Times New Roman or Arial should be used throughout. In
-Scrivener, however, you can write using any font and
-formatting you choose--the options in Compile can be used to
-change the formatting in the compiled document. In the "Novel"
-project template, the Compile settings will deal with changing
-the font and formatting to those required for standard
-manuscript format.
-     Top, bottom, left and right margins should all be
-approximately one inch, not allowing for the page header. Each
-page except for the title page should include a header
-comprising the author's real surname, the title of the work
-(or a key word from the title) in capitals, and the page
-number. In Scrivener, all of this is handled for you by the
-"Manuscript" Compile formats.
-                               #
-     Scene breaks are indicated with the hash character. Do
-not simply add an extra line space as this can be missed by
-Surname / TITLE / 2
-the typesetter. The "Separators" pane of Scrivener's Compile
-sheet can handle this for you if you are writing each scene as
-a separate text document. In general, this will be handled by
-Compile in Scrivener, however, so that you can either leave
-empty lines in the text (and Scrivener will insert the hash
-character during Compile) or use different documents for
-different sections (and Scrivener will add the hash between
-them).
-     Some editors and publishers prefer emphasis to be
-indicated by underlining rather than italics. In Scrivener,
-this conversion can be handled by Compile. The "Manuscript
-(Courier)" Compile format will convert italics to underlines,
-whereas the "Manuscript (Times)" format will not.
-Surname / TITLE / 3
-Chapter Two
-     Begin each new chapter on a new page like this with the
-chapter number about a third of the way down the page. In
-Scrivener, this can all be dealt with in the Compile settings.
-In Scrivener, all of this is handled automatically by the
-"Manuscript" compile formats.
-     Although it is often said that writers should not use the
-word-count features of their computers to determine the number
-of words in a manuscript, most publishers and editors will
-happily accept a word processor word count these days. In
-Scrivener, you can insert a word count of your manuscript by
-using Edit &gt; Insert &gt; Draft Word Count (for a manuscript, you
-may wish to have the word count rounded to the nearest 100, in
-which case select Edit &gt; Insert &gt; Draft Word Count &gt; Rounded
-To Nearest 100--this feature is used on the title page of this
-manuscript, in fact).
-Surname / TITLE / 4
-     Note that the actual word count will not be inserted, but
-a tag that will be substituted for the word count upon export.
-In reality, the formatting of a manuscript is often only
-really crucial when submitting directly to a publisher--first
-time novelists will usually submit to an agent first, and
-agents are often less picky about format and will point you in
-the right direction before submitting your work to a
-publisher.
-                               #
-     Much of the information contained in this document is
-based on a description of novel manuscript format by Matt
-Carless for the BBC Writers' Room website: http://
-www.bbc.co.uk/writersroom
-#####
-Surname / TITLE / 5
-</Text>
-        </Document>
-        <Document ID="45CBBEC1-DF54-4394-920C-DE4E11EEA23A">
-            <Title>TheDiscoveryInPaulStreet</Title>
-        </Document>
         <Document ID="21506607-96CA-4FB1-8B5F-A1859F4DCEDE">
             <Title>Copyright</Title>
             <Text>
@@ -1379,11 +1422,6 @@ Not getting in trouble for killing people by intro-ing them to her dad
 Notes
 
 </Text>
-        </Document>
-        <Document ID="AC93DBCD-27D9-4E0A-98A4-DA984E973856">
-            <Title>Investigate @Herries</Title>
-            <Text>Investigate @Herries
-@Herries chose to die in the same manor as @LordArgentine. Not the acutest research should ferret out any shadow of a lurking motive. After their @Herries’ death, there was a horror in the air, and men looked at one another's faces when they met, each wondering whether the other was to be the next victim of this nameless tragedy. </Text>
         </Document>
         <Document ID="5C03DE09-C285-48ED-827F-78E62B7D0F72">
             <Title>Template Sheets</Title>
@@ -1554,9 +1592,9 @@ Notes
 
 Image of a bathroom mirror with August Villiers’ face looking haggard. The mirror is one of those dumb “smart” mirrors with an electronic message from @Cheif on it.
 
-Good morning, Detective August Villiers. You’ve just finished up a really boring case for the bureau yesterday morning and maybe celebrated a teensy bit too hard last night at TK CLUB NAME. You’re known (but not really loved at work per say) for your paranormal investigations and you look really good in silhouette. Maybe you’re born with it, maybe it’s the hat and cape.
+Good morning, Detective August Villiers. You’ve just finished up a really boring case for the bureau yesterday morning and maybe celebrated a teensy bit too hard last night at TK CLUB NAME. You’re known (but not really loved, per say)  at work for your paranormal investigations and you look really good in silhouette. Maybe you’re born with it, maybe it’s the hat and cape.
 
-Open the message from the @Chief
+Open the message from @theChief
 VILLIERS–WE GOT ANOTHER SELF-ASSASINATION ON OUR HANDS, GET DOWN HERE NOW!!
 CRIMES -1 — how close you are to getting taken off the case?
 

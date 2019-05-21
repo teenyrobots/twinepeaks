@@ -122,8 +122,8 @@
 	<true/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1094.5, 939}}</string>
-		<string>{{1095.5, 0}, {360.5, 939}}</string>
+		<string>{{0, 0}, {1095, 939}}</string>
+		<string>{{1096, 0}, {360, 939}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>0</integer>
@@ -199,7 +199,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 162.33333333333334}, {620, 588.66666666666663}}</string>
+	<string>{{0, 60.333333333333336}, {620, 588.66666666666663}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{0, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -210,7 +210,7 @@
 	<key>mainDocumentEditor.textMode</key>
 	<integer>0</integer>
 	<key>mainWindowFrame</key>
-	<string>1 36 1680 991 0 0 1680 1027 </string>
+	<string>0 36 1680 991 0 0 1680 1027 </string>
 	<key>projectStatsSheet</key>
 	<dict>
 		<key>excludeAnnots</key>
@@ -285,7 +285,7 @@
 		<array/>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {345, 883}}</string>
+	<string>{{0, 0}, {620, 294}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>supportingDocumentEditor.selectedItemUUIDs</key>

@@ -3,5 +3,6 @@
     <Day dwc="43353" dcc="235341" dtwc="0" owc="136" occ="765" dtcc="0">2019-05-02</Day>
     <Day dwc="-333" dcc="-1760" dtwc="0" owc="34" occ="180" dtcc="0">2019-05-03</Day>
     <Day dwc="-1" dcc="-18" dtwc="0" owc="92" occ="518" dtcc="0">2019-05-07</Day>
-    <Day dwc="342" dcc="1905" owc="25" occ="173">2019-05-14</Day>
+    <Day dwc="342" dcc="1905" dtwc="0" owc="25" occ="173" dtcc="0">2019-05-14</Day>
+    <Day dwc="161" dcc="1058" owc="0" occ="0">2019-05-21</Day>
 </WritingHistory>
