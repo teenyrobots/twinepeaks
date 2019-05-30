@@ -30,15 +30,15 @@ Image of newspaper with headline “XYZ” and a secondary headline that is depe
 The chief bombards you with a newspaper basically as you walk in the door. “You’ve SEEN THIS, RIGHT????”
 Read the obituary
 @LordArgentine was a great favorite on the internet. He had a rich dad but no trust fund. He scrapped together a living selling bullshit on his account, a few bucks here and there.
-All dads die eventually though, and so one morning Charles Aubernon woke up and found that @LordArgentine was no longer a handle, but the title of a wealthy man. The situation amused him immensely, and he resolved that riches should be as pleasant to him as “poverty” had always been. Argentine, after some little consideration, came to the conclusion that dining, regarded as a fine art, was perhaps the most amusing pursuit open to fallen humanity, and thus his dinners became famous online, and an invitation to his table a thing covetously desired. 
-After several years of lordship and dinners Argentine still declined to be jaded, still persisted in enjoying life, and by a kind of infection had become recognized as the cause of joy in others, in short, as the best of company. His sudden and tragical death therefore caused a wide and deep sensation. 
+All dads die eventually though, and so one morning Charles Aubernon woke up and found that @LordArgentine was no longer a handle, but the title of a wealthy man. The situation amused him immensely, and he resolved that riches should be as pleasant to him as “poverty” had always been. Argentine, after some consideration, came to the conclusion that dining, regarded as a fine art, was perhaps the most amusing pursuit open to fallen humanity, and thus his dinners became famous online, and an invitation to his table a thing covetously desired. 
+After several cycles of lordship and dinners Argentine still declined to be jaded, still persisted in enjoying life, and by a kind of infection had become recognized as the cause of joy in others, in short, as the best of company. His sudden and tragical death therefore caused a wide and deep sensation. 
 Did you know this guy or something?
 @Chief: Do I look like I use the Webternet??? All I know is the whole lot of them are ALL SAUCED UP over this and their Shareholders basically own the force! Why don’t you ask your video-logger friend TK AUSTIN. Get this out of the papers and into the closed case files, Villiers!
 Read the secondary article (chaos meter allowing)
-TK WILD SHIT
+Something about your friend from college, Herbert being arrested again under and it REEKS OF SPOOK
 Chaos +1
 
-Ugh I thought we decided I was only on spooky cases now
+Ugh I thought we decided I was only on spooky cases from now on
 @Chief: Do I look like I think literally anything is spooky??? The internet socialites are ALL SAUCED UP over this and their shareholders basically own the force! Get this out of the papers and into the closed case files, Villiers, or you’re off the force!! 
 
 The Chief thrusts the paper into your coffee. You use it to blot the spilled coffee unnecessarily off your black jacket. Through the bleeding ink you reluctantly read [above].
@@ -47,7 +47,18 @@ Pretend to read it, but actually read the secondary headline
 TK WILD SHIT 
 CHAOS +1
 
-Feeling pretty wild and spooked, you give the obituary a cursory glance [above].</Text>
+Feeling pretty wild and spooked, you give the obituary a cursory glance [above].
+
+—
+
+INVESTIGATE:
+- Talk with Austin to learn about socialites
+- Visit Herbert to talk about spooky stuff
+- Try to figure out who you danced with last night in the club
+
+
+
+</Text>
             <Notes>- Click on handles to see profiles!!
 - Generally replacing “London”/high-society people with “the internet”/social media influencers
 - the name of the game is cut cut cut cut, we probably need to cut way more than this</Notes>
@@ -334,6 +345,10 @@ Clarke groaned; there could be no shadow of doubt.
             <Title>Investigate @Collier-Stuart</Title>
             <Text>Investigate @Collier-Stuart
 @Collier-Stuart chose to die in the same manor as @LordArgentine. There was no explanation and few bald facts; a living man in the evening, and a body with a black swollen face in the morning.</Text>
+        </Document>
+        <Document ID="529048CE-8E9E-4783-8CEE-964594E34C95">
+            <Title>Pan gets u</Title>
+            <Text>Helen brough you straight to Pan, why were you so heckin seduceable?</Text>
         </Document>
         <Document ID="4551F1FC-902C-46E1-8337-43E9191C1286">
             <Title>TheLetterOfAdvice</Title>
@@ -804,6 +819,16 @@ Some/all should be transparent to the player to some degree—they should know t
 	◦	Chief rage
 	◦	Helen knowledge
 
+Available characters
+Always available:
+	◦	Chief 
+	◦	Austin (can be murdered??)
+
+Sometimes available:
+	◦	Herbert (availability window)
+	◦	Helen (must be unlocked)
+	◦	Clarke (must be unlocked)
+
 Story structure
 Rabbit Hole 
 @LordArgentine dies
@@ -820,11 +845,11 @@ These are lines you can investigate. Each of these is relatively linear, but cha
 
 	•	Helen’s past
 - Less vulnerable to Helen
-- When you know things about Helen she is less vulnerable to you
+- When you know things about Helen she is more vulnerable to you
 
 Endings
 	◆	Thrown off the case
-- Too many crimes committed, Chief is too mad
+- Too many crimes have been committed, Chief is too mad
 
 	◆	You kill Helen
 - Helen is killed with information
@@ -982,6 +1007,12 @@ Notes
         <Document ID="DFF4809A-93FA-4FF7-81CC-38577279F7D9">
             <Title>Visit Austin, learn about Paul st</Title>
         </Document>
+        <Document ID="2387E0D5-DDB6-4F5F-BC07-F64F77014759">
+            <Title>Off the force</Title>
+            <Text>The chief told you he would throw you off the force!!
+
+Should include some like warnings in here that can appear</Text>
+        </Document>
         <Document ID="87D59B4E-F1D6-4025-9FBA-33F60ED8F985">
             <Title>Setting Sketch</Title>
             <Text>Name of Setting
@@ -1085,6 +1116,10 @@ READER DISCOVERS:
         </Document>
         <Document ID="C88ACCC3-4FDB-4952-80E1-177623CDE141">
             <Title>Cover</Title>
+        </Document>
+        <Document ID="3125ABEE-A486-4E0F-94E0-1ACC8BBF9C8D">
+            <Title>You kill helen</Title>
+            <Text>You kill helen. It’s kind of sad if you really think about it.</Text>
         </Document>
         <Document ID="A92E603C-A4BB-479A-8A85-3DDABA76ED36">
             <Title>Learn who Pan is</Title>
@@ -1596,11 +1631,11 @@ Good morning, Detective August Villiers. You’ve just finished up a really bori
 
 Open the message from @theChief
 VILLIERS–WE GOT ANOTHER SELF-ASSASINATION ON OUR HANDS, GET DOWN HERE NOW!!
-CRIMES -1 — how close you are to getting taken off the case?
+CRIMES -1 if this is your first choice
 
 Smell your clothes from last night 
 (only available if you choose it first)
-Your clothes from last night smell like someone else’s perfume—floral, but somehow earthy at the same time? You remember a lane of arching willow trees from your youth and everything seems a little bit fresher and greener. You try to remember the woman you danced with last night at TK CLUB NAME, but she eludes you. Maybe you followed her online?
+Your clothes from last night smell like someone else’s perfume—floral and earthy. You’d never call yourself an outdoorsperson, but it’s somehow intoxicating? You remember a lane of arching willow trees from your youth and everything seems a little bit fresher and greener. You try to remember the woman you danced with last night at TK CLUB NAME, but she eludes you. Maybe you followed her online?
 CHAOS +1
 
 Go straight to work without brushing your teeth you filthy animal
@@ -1730,6 +1765,10 @@ It was a woman's face, alone on the white page.
 "Ah, who can say? It is possible that the matter may end here, and we shall never know, but in my own opinion this Helen Vaughan, or Mrs. Herbert, is only the beginning. She will come back to London, Austin; depend on it, she will come back, and we shall hear more about her then. I doubt it will be very pleasant news." 
 </Text>
         </Document>
+        <Document ID="00B0524E-10D4-459A-A73C-41333B018B53">
+            <Title>1. Visit Herbert in Jail</Title>
+            <Text>Visit Herbert to talk about spooky stuff</Text>
+        </Document>
         <Document ID="6830B6AC-686B-4370-A979-2FD1D7288BDA">
             <Title>Places</Title>
         </Document>
@@ -1761,6 +1800,10 @@ Within three weeks, three People About Internet, one of them a well-known influe
 
 Insert dedication here.</Text>
             <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="918A69B3-7941-49ED-9B56-AE843407EE35">
+            <Text>Talk with Austin to learn about socialites
+He tells u the fuckin juicy shit yo</Text>
         </Document>
         <Document ID="3BEF1B0B-E75B-4AF4-9783-53D32D55B0AF">
             <Title>TIMELINE</Title>
@@ -1888,6 +1931,10 @@ The door shut, but in a moment it was open again, and Austin stood, white and gh
 "Is there anything more?" 
 "Yes. Dr. Harding ends his letter by saying: 'I think this is all the information I can give you about your poor friend. He had not been long in Buenos Ayres, and knew scarcely any one, with the exception of a person who did not bear the best of characters, and has since left—a Mrs. Vaughan.'" 
 </Text>
+        </Document>
+        <Document ID="18E1626E-6121-45D9-95E5-861D68BF1342">
+            <Title>1. Go back to the club</Title>
+            <Text>Try to figure out who you danced with last night in the club</Text>
         </Document>
     </Documents>
 </SearchIndexes>
