@@ -1079,6 +1079,10 @@ Mary never recovered her reason. She lay, as you saw her, all the while upon her
             <Title>ACT I</Title>
             <Synopsis>A DETECTIVE HAS BEEN ASSIGNED A CASE. Fucking sick, yo!!</Synopsis>
         </Document>
+        <Document ID="3125ABEE-A486-4E0F-94E0-1ACC8BBF9C8D">
+            <Title>You kill helen</Title>
+            <Text>You kill helen. It’s kind of sad if you really think about it.</Text>
+        </Document>
         <Document ID="49A87009-CC83-45D6-81BC-C30DF66E65AE">
             <Title>Talk to a begger</Title>
             <Synopsis>Talk to a begger</Synopsis>
@@ -1116,10 +1120,6 @@ READER DISCOVERS:
         </Document>
         <Document ID="C88ACCC3-4FDB-4952-80E1-177623CDE141">
             <Title>Cover</Title>
-        </Document>
-        <Document ID="3125ABEE-A486-4E0F-94E0-1ACC8BBF9C8D">
-            <Title>You kill helen</Title>
-            <Text>You kill helen. It’s kind of sad if you really think about it.</Text>
         </Document>
         <Document ID="A92E603C-A4BB-479A-8A85-3DDABA76ED36">
             <Title>Learn who Pan is</Title>
@@ -1802,8 +1802,26 @@ Insert dedication here.</Text>
             <Notes>Feel free to delete this document if you don’t need it.</Notes>
         </Document>
         <Document ID="918A69B3-7941-49ED-9B56-AE843407EE35">
+            <Title>1. Talk to Austin</Title>
             <Text>Talk with Austin to learn about socialites
-He tells u the fuckin juicy shit yo</Text>
+INTRO: Yo what up Austin
+
+Ask about Lord Argentine
+- O yea he’s super dead. It’s like he was like just too good, you know? Except for all his sucky qualities I mean.
+
+Ask about the perfume left on your coat
+- I’d recognize that eau do toilets anywhere—that’s @mrsbeumont’s perfume. It’s wild right?? Like when you smell it everything seems a little bit…greener, fresher! Like some kind of totally non electronic experience. Ya dig it? Let’s both smell it together
+Smell the perfume together
+- Chaos +1
+Where can I find out more about @mrsbeumont?
+	- Follow her, silly!!!
+		(:O after you follow @mrsbeumont, you get updates about where she is, which makes it easier to find her??)
+I’d better be going actually
+
+Ask about Pan (if you have already talked to Herbert)
+- Yeah you’re going to have to talk to someone way, way nerdier than me about that. Like, wayyy nerdier. Don’t even tell anyone you asked me. Oops I’m filming, byeeeeeeeee!
+
+Go visit your nerdy friend Clarke (if you have asked about Pan)</Text>
         </Document>
         <Document ID="3BEF1B0B-E75B-4AF4-9783-53D32D55B0AF">
             <Title>TIMELINE</Title>
