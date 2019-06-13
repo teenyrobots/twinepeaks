@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="15DFEA94-CD42-4847-AB3E-37C2F008BF99" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="Joyces-MacBook-Pro" Author="Joyce Rice" Modified="2019-06-11 14:23:57 -0400" ModID="46A0E73B-BA33-4BBA-9984-8871C3591819">
+<ScrivenerProject Identifier="15DFEA94-CD42-4847-AB3E-37C2F008BF99" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="Joyces-MacBook-Pro" Author="Joyce Rice" Modified="2019-06-13 13:18:54 -0400" ModID="5008E11D-4B9E-478B-9871-C847DAF008D9">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2019-05-02 14:13:15 -0400" Modified="2019-05-02 14:13:15 -0400">
             <Title>Novel Format</Title>
@@ -94,13 +94,13 @@
                                 <SelectedSubdocumentUUIDs>00B0524E-10D4-459A-A73C-41333B018B53</SelectedSubdocumentUUIDs>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem UUID="00B0524E-10D4-459A-A73C-41333B018B53" Type="Text" Created="2019-05-30 13:50:54 -0400" Modified="2019-05-30 13:51:26 -0400">
+                                <BinderItem UUID="00B0524E-10D4-459A-A73C-41333B018B53" Type="Text" Created="2019-05-30 13:50:54 -0400" Modified="2019-06-13 13:18:54 -0400">
                                     <Title>1. Visit Herbert in Jail</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>40,0</TextSelection>
+                                        <TextSelection>2008,5</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -414,7 +414,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>38481,179</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -957,11 +957,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="173" Characters="1000" Date="2019-06-11 14:12:56 -0400"/>
+        <PreviousSession Words="388" Characters="1973" Date="2019-06-13 11:49:37 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-06-11 00:00:00 -0400">
-        <DraftWordCount>166</DraftWordCount>
-        <DraftCharCount>966</DraftCharCount>
+    <RecentWritingHistory Date="2019-06-13 00:00:00 -0400">
+        <DraftWordCount>388</DraftWordCount>
+        <DraftCharCount>1973</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

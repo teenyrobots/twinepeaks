@@ -11,12 +11,23 @@
 
 <tw-story></tw-story>
 
-<tw-storydata name="twine-peaks" startnode="8" creator="Twine" creator-version="2.3.1" ifid="4EC35658-C976-4414-BA81-0EDE28A8DE6A" zoom="1" format="Harlowe" format-version="3.0.2" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">.obit {
+<tw-storydata name="twine-peaks" startnode="8" creator="Twine" creator-version="2.3.1" ifid="4EC35658-C976-4414-BA81-0EDE28A8DE6A" zoom="1" format="Harlowe" format-version="3.0.2" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">tw-story {
+  color: black;
+  background-color: white;
+}
+
+
+.obit {
   font-family: monospace;
 }
 
 
+
+
+
 </style><script role="script" id="twine-user-script" type="text/twine-javascript">
+
+
 
 
 </script><tw-passagedata pid="1" name="Open the message from @theChief" tags="" position="367,502" size="100,100">VILLIERS–WE GOT ANOTHER SELF-ASSASINATION ON OUR HANDS, GET DOWN HERE NOW!!
@@ -69,43 +80,66 @@ Good morning, Detective August Villiers. You’ve just finished up a really bori
 [[Ask about the perfume left on your coat-&gt;Austin1-2]]
 [[Ask about Herbert-&gt;Austin1-3]]
 [[Ask about Pan (if you have already talked to Herbert)-&gt;Austin1-4]]
-[[Actually I&#39;d better come back later-&gt;StationHub]] </tw-passagedata><tw-passagedata pid="11" name="Herbert1" tags="" position="341,1224" size="100,100">{
+[[Actually I&#39;d better come back later-&gt;StationHub]] </tw-passagedata><tw-passagedata pid="11" name="Herbert1" tags="" position="342,1224" size="100,100">{
 (set: $herbVisit1 to true)
-}Herbert is in jail and that is a big bummer for him.</tw-passagedata><tw-passagedata pid="12" name="LoveLife1" tags="" position="1184,1218" size="100,100">Visit the TK CLUB NAME from last night.
+}Herbert is in jail and that is a big bummer for him.
+
+August Villiers?? I haven&#39;t seen you since college!
+
+[[So how&#39;d you end up in the slammer, my dude?-&gt;Herbert1-1]]
+[[What&#39;s been new since college?-&gt;Herbert1-2]]
+[[What can you tell me about the murder at Paul St?-&gt;Herbert1-3]]
+[[Better be going, visit soon, smooocheessss-&gt;StationHub]] </tw-passagedata><tw-passagedata pid="12" name="LoveLife1" tags="" position="1184,1218" size="100,100">Visit the TK CLUB NAME from last night.
 
 [[Search for clues-&gt;LoveLife1-1]]
-[[Ask to speak to the proprietor-&gt;LoveLife1-2]]</tw-passagedata><tw-passagedata pid="13" name="Austin1-1" tags="" position="589,1382" size="100,100">O yea he’s super dead. It’s like he was like just too good, you know? Except for all his sucky qualities I mean.
+[[Ask to speak to the proprietor-&gt;LoveLife1-2]]</tw-passagedata><tw-passagedata pid="13" name="Austin1-1" tags="" position="606,1379" size="100,100">O yea he’s super dead. It’s like he was like just too good, you know? Except for all his sucky qualities I mean.
 
 Anymore info about Argentine??
 
-[[Austin1]] </tw-passagedata><tw-passagedata pid="14" name="Austin1-2" tags="" position="712,1382" size="100,100">I’d recognize that eau do toilets anywhere—that’s @mrsbeumont’s perfume. It’s wild right?? Like when you smell it everything seems a little bit…greener, fresher! Like some kind of totally non electronic experience. Ya dig it? Let’s both smell it together
+[[Austin1]] </tw-passagedata><tw-passagedata pid="14" name="Austin1-2" tags="" position="729,1379" size="100,100">I’d recognize that eau do toilets anywhere—that’s @mrsbeumont’s perfume. It’s wild right?? Like when you smell it everything seems a little bit…greener, fresher! Like some kind of totally non electronic experience. Ya dig it? Let’s both smell it together
 
 [[Smell the perfume together-&gt;Austin1-2A]]
-[[I have a few more questions first-&gt;Austin1]] </tw-passagedata><tw-passagedata pid="15" name="Austin1-3" tags="" position="839,1381" size="100,100">Soooooo what&#39;s up with Herbert being in jail? He always seemed like such a straight shooter, even going into real estate with his pops when he really wanted to go on tour with that punk band after college. I thought he was doing really well for himself, last I knew he was still hanging around your crowd. Did his ol&#39; dadderino disown him after all?
+[[I have a few more questions first-&gt;Austin1]] </tw-passagedata><tw-passagedata pid="15" name="Austin1-3" tags="" position="856,1378" size="100,100">Soooooo what&#39;s up with Herbert being in jail? He always seemed like such a straight shooter, even going into real estate with his pops when he really wanted to go on tour with that punk band after college. I thought he was doing really well for himself, last I knew he was still hanging around your crowd. Did his ol&#39; dadderino disown him after all?
 
 &quot;OH HONEY, NO. It was that AWFUL MURDER in Paul street!!&quot;
 
 [[Murder in Paul street??-&gt;Austin1-3A]]
-[[Huh, weird. Well that can&#39;t possibly be related to this other socialite murder I&#39;m currently investigating-&gt;Austin1]]</tw-passagedata><tw-passagedata pid="16" name="Austin1-4" tags="" position="963,1381" size="100,100">{
+[[Huh, weird. Well that can&#39;t possibly be related to this other socialite murder I&#39;m currently investigating-&gt;Austin1]]</tw-passagedata><tw-passagedata pid="16" name="Austin1-4" tags="" position="980,1381" size="100,100">{
 (set: $clarkeSuggestion to true)
 }Yeah you’re going to have to find someone way, way nerdier than me to talk with about that. Like, wayyy nerdier. Aren&#39;t you &quot;friends&quot; with that librarian, Clarke? Don’t even tell anyone you asked me, unless you&#39;re ready to fork over Clarke&#39;s username, you bad ombre. Oops I’m filming, byeeeeeeeee!
 
-[[Back to the drawing board-&gt;StationHub]]</tw-passagedata><tw-passagedata pid="17" name="Austin1-2A" tags="" position="709,1526" size="100,100">Wow what a smell
+[[Back to the drawing board-&gt;StationHub]]</tw-passagedata><tw-passagedata pid="17" name="Austin1-2A" tags="" position="726,1523" size="100,100">Wow what a smell
 
 [[Where can I find out more about @mrsbeumont?-&gt;Austin1-2B]]
 [[I have a few more questions...-&gt;Austin1]]</tw-passagedata><tw-passagedata pid="18" name="StationHub" tags="" position="770,1041" size="100,100">[[Talk with Austin to learn about socialites-&gt;Austin1]]
 [[Visit Herbert to talk about spooky stuff-&gt;Herbert1]]
 [[Try to figure out who you danced with last night in the club-&gt;LoveLife1]]
-(if: $clarkeSuggestion is true)[[Go visit your nerdy &quot;friend&quot; Clarke-&gt;Clarke1]]</tw-passagedata><tw-passagedata pid="19" name="Austin1-2B" tags="" position="711,1658" size="100,100">Follow her, silly!!!
+(if: $clarkeSuggestion is true)[[Go visit your nerdy &quot;friend&quot; Clarke-&gt;Clarke1]]</tw-passagedata><tw-passagedata pid="19" name="Austin1-2B" tags="" position="728,1655" size="100,100">Follow her, silly!!!
 
 Follow @mrsbeaumont -- now you get random beaumont updates??
-[[I have a few more questions...-&gt;Austin1]]</tw-passagedata><tw-passagedata pid="20" name="Austin1-3A" tags="" position="843,1526" size="100,100">Some shit about the Paul street murder.
+[[I have a few more questions...-&gt;Austin1]]</tw-passagedata><tw-passagedata pid="20" name="Austin1-3A" tags="" position="860,1523" size="100,100">Some shit about the Paul street murder.
 
 [[Cool story-&gt;StationHub]] </tw-passagedata><tw-passagedata pid="21" name="Clarke1" tags="" position="1550,1214" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="22" name="LoveLife1-1" tags="" position="1127,1369" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="23" name="LoveLife1-2" tags="" position="1259,1368" size="100,100">Hello, yes I&#39;m the proprietor—hey wait a minute! Aren&#39;t you that joker that was here a couple weeks ago with that vlogger, @AustinFamilyJewels, painting dicks on the walls of all three bathrooms with glow paint??
 
 [[(Conceal the glow paint stain on your cape with a flourish) Definitely not, and to be honest I&#39;m low-key offended you would even ask.-&gt;LoveLife1-2A]]
 [[Whoops look at the time, I&#39;d better be going...-&gt;StationHub]]
-[[Yes, but like I said at the time, I&#39;m really, really sorry about it and I don&#39;t do psychadelics anymore, scout&#39;s honor-&gt;LoveLife1-2B]]</tw-passagedata><tw-passagedata pid="24" name="LoveLife1-2A" tags="" position="1259,1518" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="25" name="LoveLife1-2B" tags="" position="1379,1518" size="100,100">Double-click this passage to edit it.</tw-passagedata></tw-storydata>
+[[Yes, but like I said at the time, I&#39;m really, really sorry about it and I don&#39;t do psychadelics anymore, scout&#39;s honor-&gt;LoveLife1-2B]]</tw-passagedata><tw-passagedata pid="24" name="LoveLife1-2A" tags="" position="1259,1518" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="25" name="LoveLife1-2B" tags="" position="1379,1518" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="26" name="Herbert1-1" tags="" position="192,1374" size="100,100">Something petty, but I didn’t do it, maaaan! You get a record and you’re in the SYSTEM, you know? Hey but August, you’re on the force right? Can’t you get me out of this??
+
+[[Yeahhh I’ll uh see what I can do-&gt;Herbert1]] 
+</tw-passagedata><tw-passagedata pid="27" name="Herbert1-2" tags="" position="332,1375" size="100,100">&quot;How on earth has it happened, Herbert? I always understood you would succeed to an excellent position in Dorsetshire. Did your father disinherit you? Surely not?&quot; 
+
+No man, he kicked it a year after graduation, he left everything to me. He was a good dad man but you know I got a lil wild and before you knew it I was married to this woman of wonderful and strange beauty. But August, that woman, if I can call her human at all, corrupted my soul.
+
+I have seen the incredible, such horrors that even I myself sometimes stop in the middle of the street and ask whether it is possible for a man to behold such things and live. In a year, August, I was a ruined man, in body and soul—in body and soul.
+
+[[But Herbert, all the money your dadderino left you?-&gt;Herbert1-2A]]
+</tw-passagedata><tw-passagedata pid="28" name="Herbert1-3" tags="" position="469,1374" size="100,100">I didn’t do it maan! That’s when things started to really go bad, some dude kicked it in front of my house in the middle of the night. I don’t know what rock you were under three years ago, but it was all over the web, I had to make all my channels private and people still found me. 
+
+They never figured out what exactly he died from and whether or not their was foul play, but they still dragged me all over the station for months like a common sleeze! Shortly after, that vile succubus drained my accounts and left me, and I found my house getting repo’d by @DogBounty for his new Snipsnap channel.
+
+[[Yikes-&gt;Herbert1]] </tw-passagedata><tw-passagedata pid="29" name="Herbert1-2A" tags="" position="332,1525" size="100,100">She took it all. Yes; she disappeared one night. I don&#39;t know where she went, but I am sure if I saw her again it would kill me. The rest of my story is of no interest; sordid misery, that is all. Since the murder on Paul St, I’ve been living on the streets.
+
+[[Yikes-&gt;Herbert1]] </tw-passagedata></tw-storydata>
 
 <script title="Twine engine code" data-main="harlowe">"use strict";function _defineProperty(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function _toConsumableArray(e){if(Array.isArray(e)){for(var t=0,n=Array(e.length);t<e.length;t++)n[t]=e[t];return n}return Array.from(e)}var _slicedToArray=function(){function e(e,t){var n=[],r=!0,i=!1,o=void 0;try{for(var a,s=e[Symbol.iterator]();!(r=(a=s.next()).done)&&(n.push(a.value),!t||n.length!==t);r=!0);}catch(e){i=!0,o=e}finally{try{!r&&s.return&&s.return()}finally{if(i)throw o}}return n}return function(t,n){if(Array.isArray(t))return t;if(Symbol.iterator in Object(t))return e(t,n);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e};!function(){/**
  * @license almond 0.3.3 Copyright jQuery Foundation and other contributors.

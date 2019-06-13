@@ -122,8 +122,8 @@
 	<true/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1095, 939}}</string>
-		<string>{{1096, 0}, {408, 939}}</string>
+		<string>{{0, 0}, {932, 939}}</string>
+		<string>{{933, 0}, {571, 939}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>0</integer>
@@ -285,7 +285,7 @@
 		<array/>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 1.5}, {393, 883}}</string>
+	<string>{{0, 8942.3333333333339}, {380.66666666666669, 588.66666666666606}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>supportingDocumentEditor.selectedItemUUIDs</key>
@@ -293,7 +293,7 @@
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
-		<real>1</real>
+		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentEditor.textMode</key>
 	<integer>0</integer>
